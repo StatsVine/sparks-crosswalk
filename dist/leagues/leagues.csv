@@ -1,0 +1,7 @@
+sparks_id,sport_id,name,abbreviation,wikidata_id,espn_api_id,reuters_league_slug
+al,baseball,American League,AL,Q465469,,
+mlb,baseball,Major League Baseball,MLB,Q1163715,mlb,BASEBALL-MLB
+nba,basketball,National Basketball Assocation,NBA,Q155223,nba,BASKETBALL-NBA
+nfl,football,National Football League,NFL,Q1215884,nfl,FOOTBALL-NFL
+nhl,ice-hockey,National Hockey League,NHL,Q1215892,nhl,ICEHOCKEY-NHL
+nl,baseball,National League,NL,Q858082,,
