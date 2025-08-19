@@ -1,0 +1,45 @@
+name: Build and commit export files
+
+on:
+  workflow_dispatch:  # manually triggered
+  push:
+    paths:
+      - /data/**
+      - /schema/**
+
+jobs:
+  build_exports:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Clone prism-tools repo
+        run: |
+          git clone https://github.com/statsvine/prism-tools.git tools
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: pip install dependencies
+        run: |
+          pip install -r tools/requirements.txt
+
+      - name: Run build exports script
+        run: |
+          python3 tools/crosswalk/build_crosswalk_dist.py
+
+      - name: Commit export files
+        run: |
+          git config --global user.name "SPARKS Build Bot"
+          git config --global user.email "statvine+sparks@gmail.com"
+          git add exports/
+          git commit -m "Automated build: Update crosswalk dist files" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
