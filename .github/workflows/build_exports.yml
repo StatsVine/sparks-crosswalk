@@ -17,9 +17,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Clone prism-tools repo
+      - name: Clone sparks-tools repo
         run: |
-          git clone https://github.com/statsvine/prism-tools.git tools
+          git clone https://github.com/statsvine/sparks-tools.git tools
 
       - name: Set up Python
         uses: actions/setup-python@v2
