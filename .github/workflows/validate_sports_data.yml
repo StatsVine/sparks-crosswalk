@@ -1,0 +1,19 @@
+name: Validate sports data CSV
+
+on:
+  push:
+    paths:
+      - data/sports.csv
+      - schema/sports.yaml
+  pull_request:
+    paths:
+      - data/sports.csv
+      - schema/sports.yaml
+  workflow_dispatch:
+
+jobs:
+  validate_sports_data_csv:
+    uses: ./.github/workflows/validate_data_csv.yml
+    with:
+      csv-path: data/sports.csv
+      schema-path: schema/sports.yaml
