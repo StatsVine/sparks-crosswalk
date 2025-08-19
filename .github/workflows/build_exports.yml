@@ -34,11 +34,11 @@ jobs:
         run: |
           python3 tools/crosswalk/build_crosswalk_dist.py
 
-      - name: Commit export files
+      - name: Commit dist files
         run: |
           git config --global user.name "SPARKS Build Bot"
           git config --global user.email "statvine+sparks@gmail.com"
-          git add exports/
+          git add dist/
           git commit -m "Automated build: Update crosswalk dist files" || echo "No changes to commit"
           git push origin main
         env:
