@@ -1,0 +1,19 @@
+name: Validate franchises data CSV
+
+on:
+  push:
+    paths:
+      - data/franchises.csv
+      - schema/franchises.yaml
+  pull_request:
+    paths:
+      - data/franchises.csv
+      - schema/franchises.yaml
+  workflow_dispatch:
+
+jobs:
+  validate_franchises_data_csv:
+    uses: ./.github/workflows/validate_data_csv.yml
+    with:
+      csv-path: data/franchises.csv
+      schema-path: schema/franchises.yaml
