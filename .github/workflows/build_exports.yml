@@ -3,6 +3,8 @@ name: Build and commit export files
 on:
   workflow_dispatch:  # manually triggered
   push:
+    branches: 
+      - 'main'
     paths:
       - /data/**
       - /schema/**
