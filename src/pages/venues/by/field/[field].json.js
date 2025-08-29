@@ -1,4 +1,4 @@
-import venues from '@data/dist/venues/venues.json';
+import venues from '@data/dist/venues/venues.json'
 
 export function createHandler() {
   return async ({ params }) => {
@@ -29,7 +29,7 @@ export function createStaticPaths() {
   return async () => {
     return venues
       .map((venue) => {
-        const fields = Object.keys(venue)//.filter((k) => k.endsWith('_id'))
+        const fields = Object.keys(venue) //.filter((k) => k.endsWith('_id'))
         return fields
           .filter((field) => venue[field] != null)
           .map((field) => ({

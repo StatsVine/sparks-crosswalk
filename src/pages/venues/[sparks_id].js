@@ -1,4 +1,4 @@
-import venues from '@data/dist/venues/by_field/venues.sparks_id.json';
+import venues from '@data/dist/venues/by_field/venues.sparks_id.json'
 
 export function createHandler() {
   return async ({ params }) => {
