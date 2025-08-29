@@ -1,0 +1,1838 @@
+{
+  "United Center": [
+    {
+      "sparks_id": "05njz9zt",
+      "current_name": "United Center",
+      "founding_name": "United Center",
+      "year_founded": "1994",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "IL",
+      "city": "Chicago",
+      "latitude_dd": "41.88070",
+      "longitude_dd": "-87.67418",
+      "wikidata_id": "Q639975",
+      "mlb_id": null,
+      "espn_id": "1847"
+    }
+  ],
+  "Citizens Bank Park": [
+    {
+      "sparks_id": "0rctdqyd",
+      "current_name": "Citizens Bank Park",
+      "founding_name": "Citizens Bank Park",
+      "year_founded": "2004",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "PA",
+      "city": "Philadelphia",
+      "latitude_dd": "39.90558",
+      "longitude_dd": "-75.16661",
+      "wikidata_id": "Q912770",
+      "mlb_id": "2681",
+      "espn_id": "84"
+    }
+  ],
+  "Citi Field": [
+    {
+      "sparks_id": "0rfq97bs",
+      "current_name": "Citi Field",
+      "founding_name": "Citi Field",
+      "year_founded": "2009",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NY",
+      "city": "Queens",
+      "latitude_dd": "40.75658",
+      "longitude_dd": "-73.84603",
+      "wikidata_id": "Q1072882",
+      "mlb_id": "3289",
+      "espn_id": "209"
+    }
+  ],
+  "Paycor Stadium": [
+    {
+      "sparks_id": "0trfx90w",
+      "current_name": "Paycor Stadium",
+      "founding_name": "Paul Brown Stadium",
+      "year_founded": "2000",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OH",
+      "city": "Cincinnati",
+      "latitude_dd": "39.09544",
+      "longitude_dd": "-84.51605",
+      "wikidata_id": "Q1632294",
+      "mlb_id": null,
+      "espn_id": "3874"
+    }
+  ],
+  "loanDepot park": [
+    {
+      "sparks_id": "1945j1z7",
+      "current_name": "loanDepot park",
+      "founding_name": "Marlins Park",
+      "year_founded": "2012",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Miami",
+      "latitude_dd": "25.77842",
+      "longitude_dd": "-80.21986",
+      "wikidata_id": "Q1368138",
+      "mlb_id": "4169",
+      "espn_id": "4223"
+    }
+  ],
+  "AT&T Stadium": [
+    {
+      "sparks_id": "1dz9ytdh",
+      "current_name": "AT&T Stadium",
+      "founding_name": "Cowboys Stadium",
+      "year_founded": "2009",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Arlington",
+      "latitude_dd": "32.74781",
+      "longitude_dd": "-97.09283",
+      "wikidata_id": "Q838284",
+      "mlb_id": null,
+      "espn_id": "3687"
+    }
+  ],
+  "Kaseya Center": [
+    {
+      "sparks_id": "1fveknv3",
+      "current_name": "Kaseya Center",
+      "founding_name": "American Airlines Arena",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Miami",
+      "latitude_dd": "25.78135",
+      "longitude_dd": "-80.18792",
+      "wikidata_id": "Q420129",
+      "mlb_id": null,
+      "espn_id": "3438"
+    }
+  ],
+  "George M. Steinbrenner Field": [
+    {
+      "sparks_id": "1pg5bd5c",
+      "current_name": "George M. Steinbrenner Field",
+      "founding_name": "Legends Field",
+      "year_founded": "1996",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Tampa",
+      "latitude_dd": "27.97997",
+      "longitude_dd": "-82.50701",
+      "wikidata_id": "Q3101733",
+      "mlb_id": "2523",
+      "espn_id": "72"
+    }
+  ],
+  "EverBank Stadium": [
+    {
+      "sparks_id": "1txnd5g8",
+      "current_name": "EverBank Stadium",
+      "founding_name": "Jacksonville Municipal Stadium",
+      "year_founded": "1995",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Jacksonville",
+      "latitude_dd": "30.32391",
+      "longitude_dd": "-81.63735",
+      "wikidata_id": "Q635117",
+      "mlb_id": null,
+      "espn_id": "3712"
+    }
+  ],
+  "Ford Field": [
+    {
+      "sparks_id": "25f6w8e1",
+      "current_name": "Ford Field",
+      "founding_name": "Ford Field",
+      "year_founded": "2002",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MI",
+      "city": "Detroit",
+      "latitude_dd": "42.34002",
+      "longitude_dd": "-83.04565",
+      "wikidata_id": "Q1142586",
+      "mlb_id": null,
+      "espn_id": "3727"
+    }
+  ],
+  "Huntington Bank Field": [
+    {
+      "sparks_id": "2py1z9kx",
+      "current_name": "Huntington Bank Field",
+      "founding_name": "Cleveland Browns Stadium",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OH",
+      "city": "Cleveland",
+      "latitude_dd": "41.50604",
+      "longitude_dd": "-81.69958",
+      "wikidata_id": "Q1100756",
+      "mlb_id": null,
+      "espn_id": "3679"
+    }
+  ],
+  "Nationals Park": [
+    {
+      "sparks_id": "3c520rvp",
+      "current_name": "Nationals Park",
+      "founding_name": "Nationals Park",
+      "year_founded": "2008",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "DC",
+      "city": "Washington",
+      "latitude_dd": "38.87254",
+      "longitude_dd": "-77.00776",
+      "wikidata_id": "Q517545",
+      "mlb_id": "3309",
+      "espn_id": "89"
+    }
+  ],
+  "Target Center": [
+    {
+      "sparks_id": "3cmc259x",
+      "current_name": "Target Center",
+      "founding_name": "Target Center",
+      "year_founded": "1990",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MN",
+      "city": "Minneapolis",
+      "latitude_dd": "44.97952",
+      "longitude_dd": "-93.27606",
+      "wikidata_id": "Q282675",
+      "mlb_id": null,
+      "espn_id": "2029"
+    }
+  ],
+  "PHX Arena": [
+    {
+      "sparks_id": "3h343skr",
+      "current_name": "PHX Arena",
+      "founding_name": "America West Arena",
+      "year_founded": "1992",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "AZ",
+      "city": "Phoenix",
+      "latitude_dd": "33.44582",
+      "longitude_dd": "-112.07119",
+      "wikidata_id": "Q1538690",
+      "mlb_id": null,
+      "espn_id": "1949"
+    }
+  ],
+  "U.S. Bank Stadium": [
+    {
+      "sparks_id": "4gvhzt8l",
+      "current_name": "U.S. Bank Stadium",
+      "founding_name": "U.S. Bank Stadium",
+      "year_founded": "2016",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MN",
+      "city": "Minneapolis",
+      "latitude_dd": "44.97352",
+      "longitude_dd": "-93.25747",
+      "wikidata_id": "Q7929512",
+      "mlb_id": null,
+      "espn_id": "5239"
+    }
+  ],
+  "Kauffman Stadium": [
+    {
+      "sparks_id": "4ksk1zex",
+      "current_name": "Kauffman Stadium",
+      "founding_name": "Kauffman Stadium",
+      "year_founded": "1973",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MI",
+      "city": "Kansas City",
+      "latitude_dd": "39.05125",
+      "longitude_dd": "-94.48081",
+      "wikidata_id": "Q1737017",
+      "mlb_id": "7",
+      "espn_id": "7"
+    }
+  ],
+  "Oracle Park": [
+    {
+      "sparks_id": "4tew5786",
+      "current_name": "Oracle Park",
+      "founding_name": "Pacific Bell Park",
+      "year_founded": "2000",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "San Francisco",
+      "latitude_dd": "37.77836",
+      "longitude_dd": "-122.38991",
+      "wikidata_id": "Q298585",
+      "mlb_id": "2395",
+      "espn_id": "43"
+    }
+  ],
+  "Wembley Stadium": [
+    {
+      "sparks_id": "5m4srn9s",
+      "current_name": "Wembley Stadium",
+      "founding_name": "Wembley Stadium",
+      "year_founded": "2007",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "GB",
+      "subdivision_code": "ENG",
+      "city": "London",
+      "latitude_dd": "51.55597",
+      "longitude_dd": "-0.27954",
+      "wikidata_id": "Q128468",
+      "mlb_id": null,
+      "espn_id": "2455"
+    }
+  ],
+  "Paycom Center": [
+    {
+      "sparks_id": "64hw4s2l",
+      "current_name": "Paycom Center",
+      "founding_name": "Ford Center",
+      "year_founded": "2002",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OK",
+      "city": "Oklahoma City",
+      "latitude_dd": "35.46349",
+      "longitude_dd": "-97.51511",
+      "wikidata_id": "Q665434",
+      "mlb_id": null,
+      "espn_id": "2559"
+    }
+  ],
+  "Coors Field": [
+    {
+      "sparks_id": "6966hy2t",
+      "current_name": "Coors Field",
+      "founding_name": "Coors Field",
+      "year_founded": "1995",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CO",
+      "city": "Denver",
+      "latitude_dd": "39.75571",
+      "longitude_dd": "-104.99420",
+      "wikidata_id": "Q1129916",
+      "mlb_id": "19",
+      "espn_id": "27"
+    }
+  ],
+  "Levi's Stadium": [
+    {
+      "sparks_id": "6gtxzeb7",
+      "current_name": "Levi's Stadium",
+      "founding_name": "Levi's Stadium",
+      "year_founded": "2014",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Santa Clara",
+      "latitude_dd": "37.40319",
+      "longitude_dd": "-121.96980",
+      "wikidata_id": "Q7419343",
+      "mlb_id": null,
+      "espn_id": "4738"
+    }
+  ],
+  "Fenway Park": [
+    {
+      "sparks_id": "6h0z5tye",
+      "current_name": "Fenway Park",
+      "founding_name": "Fenway Park",
+      "year_founded": "1912",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MA",
+      "city": "Boston",
+      "latitude_dd": "42.34625",
+      "longitude_dd": "-71.09777",
+      "wikidata_id": "Q49136",
+      "mlb_id": "3",
+      "espn_id": "2"
+    }
+  ],
+  "Madison Square Garden": [
+    {
+      "sparks_id": "6h651bwc",
+      "current_name": "Madison Square Garden",
+      "founding_name": "Madison Square Garden",
+      "year_founded": "1968",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NY",
+      "city": "New York City",
+      "latitude_dd": "40.75052",
+      "longitude_dd": "-73.99347",
+      "wikidata_id": "Q186125",
+      "mlb_id": null,
+      "espn_id": "1830"
+    }
+  ],
+  "SoFi Stadium": [
+    {
+      "sparks_id": "6tn1k7kv",
+      "current_name": "SoFi Stadium",
+      "founding_name": "SoFi Stadium",
+      "year_founded": "2020",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Inglewood",
+      "latitude_dd": "33.95342",
+      "longitude_dd": "-118.33904",
+      "wikidata_id": "Q19520501",
+      "mlb_id": null,
+      "espn_id": "7065"
+    }
+  ],
+  "Globe Life Field": [
+    {
+      "sparks_id": "6wvqyq9h",
+      "current_name": "Globe Life Field",
+      "founding_name": "Globe Life Field",
+      "year_founded": "2020",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Arlington",
+      "latitude_dd": "32.74728",
+      "longitude_dd": "-97.08358",
+      "wikidata_id": "Q24284037",
+      "mlb_id": "5325",
+      "espn_id": "231"
+    }
+  ],
+  "Capital One Arena": [
+    {
+      "sparks_id": "74ckqk8x",
+      "current_name": "Capital One Arena",
+      "founding_name": "MCI Center",
+      "year_founded": "1997",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "DC",
+      "city": "Washington",
+      "latitude_dd": "38.89815",
+      "longitude_dd": "-77.02093",
+      "wikidata_id": "Q223240",
+      "mlb_id": null,
+      "espn_id": "1823"
+    }
+  ],
+  "FedExForum": [
+    {
+      "sparks_id": "7e0msnql",
+      "current_name": "FedExForum",
+      "founding_name": "FedExForum",
+      "year_founded": "2004",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TN",
+      "city": "Memphis",
+      "latitude_dd": "35.13822",
+      "longitude_dd": "-90.05048",
+      "wikidata_id": "Q641212",
+      "mlb_id": null,
+      "espn_id": "1392"
+    }
+  ],
+  "Highmark Stadium": [
+    {
+      "sparks_id": "7l3e0ezw",
+      "current_name": "Highmark Stadium",
+      "founding_name": "Rich Stadium",
+      "year_founded": "1973",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NY",
+      "city": "Orchard Park",
+      "latitude_dd": "42.77374",
+      "longitude_dd": "-78.78697",
+      "wikidata_id": "Q1475645",
+      "mlb_id": null,
+      "espn_id": "3883"
+    }
+  ],
+  "Xfinity Mobile Arena": [
+    {
+      "sparks_id": "7qlktt88",
+      "current_name": "Xfinity Mobile Arena",
+      "founding_name": "CoreStates Center",
+      "year_founded": "1996",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "PA",
+      "city": "Philadelphia",
+      "latitude_dd": "39.90120",
+      "longitude_dd": "-75.17195",
+      "wikidata_id": "Q818735",
+      "mlb_id": null,
+      "espn_id": "1845"
+    }
+  ],
+  "Rate Field": [
+    {
+      "sparks_id": "828w5wnk",
+      "current_name": "Rate Field",
+      "founding_name": "Comiskey Park",
+      "year_founded": "1991",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "IL",
+      "city": "Chicago",
+      "latitude_dd": "41.83019",
+      "longitude_dd": "-87.63424",
+      "wikidata_id": "Q633613",
+      "mlb_id": "4",
+      "espn_id": "4"
+    }
+  ],
+  "Lumen Field": [
+    {
+      "sparks_id": "91gpmzp4",
+      "current_name": "Lumen Field",
+      "founding_name": "Seahawks Stadium",
+      "year_founded": "2002",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "WA",
+      "city": "Seattle",
+      "latitude_dd": "47.59522",
+      "longitude_dd": "-122.33167",
+      "wikidata_id": "Q612736",
+      "mlb_id": null,
+      "espn_id": "3673"
+    }
+  ],
+  "Croke Park": [
+    {
+      "sparks_id": "91yqz091",
+      "current_name": "Croke Park",
+      "founding_name": "Croke Park",
+      "year_founded": "1884",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "IE",
+      "subdivision_code": "D",
+      "city": "Dublin",
+      "latitude_dd": "53.36074",
+      "longitude_dd": "-6.25113",
+      "wikidata_id": "Q478225",
+      "mlb_id": null,
+      "espn_id": "4737"
+    }
+  ],
+  "Sutter Health Park": [
+    {
+      "sparks_id": "c4rkh70v",
+      "current_name": "Sutter Health Park",
+      "founding_name": "Raley Field",
+      "year_founded": "2000",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "West Sacramento",
+      "latitude_dd": "38.58022",
+      "longitude_dd": "-121.51403",
+      "wikidata_id": "Q3418115",
+      "mlb_id": "2529",
+      "espn_id": "7109"
+    }
+  ],
+  "Wrigley Field": [
+    {
+      "sparks_id": "cb8v98d1",
+      "current_name": "Wrigley Field",
+      "founding_name": "Weeghman Park",
+      "year_founded": "1914",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "IL",
+      "city": "Chicago",
+      "latitude_dd": "41.94792",
+      "longitude_dd": "-87.65583",
+      "wikidata_id": "Q1052807",
+      "mlb_id": "17",
+      "espn_id": "16"
+    }
+  ],
+  "Oriole Park at Camden Yards": [
+    {
+      "sparks_id": "cgbcms2r",
+      "current_name": "Oriole Park at Camden Yards",
+      "founding_name": "Oriole Park at Camden Yards",
+      "year_founded": "1992",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MD",
+      "city": "Baltimore",
+      "latitude_dd": "39.28351",
+      "longitude_dd": "-76.62191",
+      "wikidata_id": "Q1141174",
+      "mlb_id": "2",
+      "espn_id": "1"
+    }
+  ],
+  "Chase Field": [
+    {
+      "sparks_id": "cxt4x4bk",
+      "current_name": "Chase Field",
+      "founding_name": "Bank One Ballpark",
+      "year_founded": "1998",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "AZ",
+      "city": "Phoenix",
+      "latitude_dd": "33.44504",
+      "longitude_dd": "-112.06672",
+      "wikidata_id": "Q1068011",
+      "mlb_id": "15",
+      "espn_id": "30"
+    }
+  ],
+  "TD Garden": [
+    {
+      "sparks_id": "d19jqq98",
+      "current_name": "TD Garden",
+      "founding_name": "FleetCenter",
+      "year_founded": "1995",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MA",
+      "city": "Boston",
+      "latitude_dd": "42.36629",
+      "longitude_dd": "-71.06219",
+      "wikidata_id": "Q432105",
+      "mlb_id": null,
+      "espn_id": "1824"
+    }
+  ],
+  "Nissan Stadium": [
+    {
+      "sparks_id": "d4h9j87j",
+      "current_name": "Nissan Stadium",
+      "founding_name": "Adelphia Coliseum",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TN",
+      "city": "Nashville",
+      "latitude_dd": "36.16647",
+      "longitude_dd": "-86.77127",
+      "wikidata_id": "Q1142992",
+      "mlb_id": null,
+      "espn_id": "3810"
+    }
+  ],
+  "Toyota Center": [
+    {
+      "sparks_id": "dfs2lv2e",
+      "current_name": "Toyota Center",
+      "founding_name": "Toyota Center",
+      "year_founded": "2003",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Houston",
+      "latitude_dd": "29.75078",
+      "longitude_dd": "-95.36211",
+      "wikidata_id": "Q1166157",
+      "mlb_id": null,
+      "espn_id": "1394"
+    }
+  ],
+  "Target Field": [
+    {
+      "sparks_id": "e1ppwsh7",
+      "current_name": "Target Field",
+      "founding_name": "Target Field",
+      "year_founded": "2010",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MN",
+      "city": "Minneapolis",
+      "latitude_dd": "44.98171",
+      "longitude_dd": "-93.27829",
+      "wikidata_id": "Q1156635",
+      "mlb_id": "3312",
+      "espn_id": "210"
+    }
+  ],
+  "Bank of America Stadium": [
+    {
+      "sparks_id": "egcff0wy",
+      "current_name": "Bank of America Stadium",
+      "founding_name": "Ericsson Stadium",
+      "year_founded": "1996",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NC",
+      "city": "Charlotte",
+      "latitude_dd": "35.22580",
+      "longitude_dd": "-80.85283",
+      "wikidata_id": "Q806673",
+      "mlb_id": null,
+      "espn_id": "3628"
+    }
+  ],
+  "M&T Bank Stadium": [
+    {
+      "sparks_id": "er6fpz7s",
+      "current_name": "M&T Bank Stadium",
+      "founding_name": "Ravens Stadium at Camden Yards",
+      "year_founded": "1998",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MA",
+      "city": "Baltimore",
+      "latitude_dd": "39.27796",
+      "longitude_dd": "-76.62271",
+      "wikidata_id": "Q1141336",
+      "mlb_id": null,
+      "espn_id": "3814"
+    }
+  ],
+  "Moda Center": [
+    {
+      "sparks_id": "erpqq45q",
+      "current_name": "Moda Center",
+      "founding_name": "Rose Garden",
+      "year_founded": "1995",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OR",
+      "city": "Portland",
+      "latitude_dd": "45.53156",
+      "longitude_dd": "-122.66684",
+      "wikidata_id": "Q1347442",
+      "mlb_id": null,
+      "espn_id": "3423"
+    }
+  ],
+  "Neo Química Arena": [
+    {
+      "sparks_id": "f3wv7y64",
+      "current_name": "Neo Química Arena",
+      "founding_name": "Arena Corinthians",
+      "year_founded": "2014",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "BR",
+      "subdivision_code": "SP",
+      "city": "Sao Paulo",
+      "latitude_dd": "-23.54531",
+      "longitude_dd": "-46.47422",
+      "wikidata_id": "Q1362236",
+      "mlb_id": null,
+      "espn_id": "8748"
+    }
+  ],
+  "Acrisure Stadium": [
+    {
+      "sparks_id": "f7kng037",
+      "current_name": "Acrisure Stadium",
+      "founding_name": "Heinz Field",
+      "year_founded": "2001",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "PA",
+      "city": "Pittsburgh",
+      "latitude_dd": "40.44678",
+      "longitude_dd": "-80.01577",
+      "wikidata_id": "Q1067148",
+      "mlb_id": null,
+      "espn_id": "3752"
+    }
+  ],
+  "Northwest Stadium": [
+    {
+      "sparks_id": "fd317pbn",
+      "current_name": "Northwest Stadium",
+      "founding_name": "Jack Kent Cooke Stadium",
+      "year_founded": "1997",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MD",
+      "city": "Landover",
+      "latitude_dd": "38.90768",
+      "longitude_dd": "-76.86451",
+      "wikidata_id": "Q583085",
+      "mlb_id": null,
+      "espn_id": "3719"
+    }
+  ],
+  "Comerica Park": [
+    {
+      "sparks_id": "fv8hjl51",
+      "current_name": "Comerica Park",
+      "founding_name": "Comerica Park",
+      "year_founded": "2000",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MI",
+      "city": "Detroit",
+      "latitude_dd": "42.33944",
+      "longitude_dd": "-83.04896",
+      "wikidata_id": "Q868482",
+      "mlb_id": "2394",
+      "espn_id": "45"
+    }
+  ],
+  "Fiserv Forum": [
+    {
+      "sparks_id": "fzbbh58c",
+      "current_name": "Fiserv Forum",
+      "founding_name": "Fiserv Forum",
+      "year_founded": "2018",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "WI",
+      "city": "Milwaukee",
+      "latitude_dd": "43.04502",
+      "longitude_dd": "-87.91739",
+      "wikidata_id": "Q20372160",
+      "mlb_id": null,
+      "espn_id": "5777"
+    }
+  ],
+  "Caesars Superdome": [
+    {
+      "sparks_id": "g0qj8903",
+      "current_name": "Caesars Superdome",
+      "founding_name": "Louisiana Superdome",
+      "year_founded": "1975",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "LA",
+      "city": "New Orleans",
+      "latitude_dd": "29.95104",
+      "longitude_dd": "-90.08109",
+      "wikidata_id": "Q756452",
+      "mlb_id": null,
+      "espn_id": "3493"
+    }
+  ],
+  "The O2 Arena": [
+    {
+      "sparks_id": "gl109vgj",
+      "current_name": "The O2 Arena",
+      "founding_name": "The O2 Arena",
+      "year_founded": "2007",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "GB",
+      "subdivision_code": "ENG",
+      "city": "London",
+      "latitude_dd": "51.50293",
+      "longitude_dd": "0.00321",
+      "wikidata_id": "Q5364202",
+      "mlb_id": null,
+      "espn_id": "6272"
+    }
+  ],
+  "Truist Park": [
+    {
+      "sparks_id": "gntz425s",
+      "current_name": "Truist Park",
+      "founding_name": "SunTrust Park",
+      "year_founded": "2017",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "GA",
+      "city": "Cumberland",
+      "latitude_dd": "33.89113",
+      "longitude_dd": "-84.46788",
+      "wikidata_id": "Q17003430",
+      "mlb_id": "4705",
+      "espn_id": "218"
+    }
+  ],
+  "Lucas Oil Stadium": [
+    {
+      "sparks_id": "gy13xwnv",
+      "current_name": "Lucas Oil Stadium",
+      "founding_name": "Lucas Oil Stadium",
+      "year_founded": "2008",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "IN",
+      "city": "Indianapolis",
+      "latitude_dd": "39.76009",
+      "longitude_dd": "-86.16383",
+      "wikidata_id": "Q867160",
+      "mlb_id": null,
+      "espn_id": "3812"
+    }
+  ],
+  "Olympiastadion Berlin": [
+    {
+      "sparks_id": "hf4jm4x4",
+      "current_name": "Olympiastadion Berlin",
+      "founding_name": "Olympiastadion Berlin",
+      "year_founded": "1936",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "DE",
+      "subdivision_code": "BE",
+      "city": "Berlin",
+      "latitude_dd": "51.55597",
+      "longitude_dd": "-0.27954",
+      "wikidata_id": "Q151374",
+      "mlb_id": null,
+      "espn_id": "7696"
+    }
+  ],
+  "Hard Rock Stadium": [
+    {
+      "sparks_id": "hx8k7nxz",
+      "current_name": "Hard Rock Stadium",
+      "founding_name": "Joe Robbie Stadium",
+      "year_founded": "1987",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Miami Gardens",
+      "latitude_dd": "25.95774",
+      "longitude_dd": "-80.23897",
+      "wikidata_id": "Q864339",
+      "mlb_id": null,
+      "espn_id": "3948"
+    }
+  ],
+  "T-Mobile Park": [
+    {
+      "sparks_id": "hxn7j9mx",
+      "current_name": "T-Mobile Park",
+      "founding_name": "Safeco Field",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "WA",
+      "city": "Seattle",
+      "latitude_dd": "47.59111",
+      "longitude_dd": "-122.33288",
+      "wikidata_id": "Q1193117",
+      "mlb_id": "680",
+      "espn_id": "41"
+    }
+  ],
+  "Uber Arena": [
+    {
+      "sparks_id": "hxws0dq3",
+      "current_name": "Uber Arena",
+      "founding_name": "O2 World",
+      "year_founded": "2008",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "DE",
+      "subdivision_code": "BE",
+      "city": "Berlin",
+      "latitude_dd": "52.50636",
+      "longitude_dd": "13.44377",
+      "wikidata_id": "Q265463",
+      "mlb_id": null,
+      "espn_id": "11593"
+    }
+  ],
+  "Intuit Dome": [
+    {
+      "sparks_id": "j4fbhk07",
+      "current_name": "Intuit Dome",
+      "founding_name": "Intuit Dome",
+      "year_founded": "2024",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Inglewood",
+      "latitude_dd": "33.94378",
+      "longitude_dd": "-118.34224",
+      "wikidata_id": "Q54958436",
+      "mlb_id": null,
+      "espn_id": "10642"
+    }
+  ],
+  "Gainbridge Fieldhouse": [
+    {
+      "sparks_id": "jkxgyks5",
+      "current_name": "Gainbridge Fieldhouse",
+      "founding_name": "Conseco Fieldhouse",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "IN",
+      "city": "Indianapolis",
+      "latitude_dd": "39.76393",
+      "longitude_dd": "-86.15552",
+      "wikidata_id": "Q545007",
+      "mlb_id": null,
+      "espn_id": "2183"
+    }
+  ],
+  "Golden 1 Center": [
+    {
+      "sparks_id": "jrq2fbfj",
+      "current_name": "Golden 1 Center",
+      "founding_name": "Golden 1 Center",
+      "year_founded": "2016",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Sacramento",
+      "latitude_dd": "38.58019",
+      "longitude_dd": "-121.49960",
+      "wikidata_id": "Q7011384",
+      "mlb_id": null,
+      "espn_id": "5310"
+    }
+  ],
+  "Busch Stadium": [
+    {
+      "sparks_id": "k2cbyrm3",
+      "current_name": "Busch Stadium",
+      "founding_name": "Busch Stadium",
+      "year_founded": "2006",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MI",
+      "city": "St. Louis",
+      "latitude_dd": "38.62241",
+      "longitude_dd": "-90.19339",
+      "wikidata_id": "Q253546",
+      "mlb_id": "2889",
+      "espn_id": "87"
+    }
+  ],
+  "Rogers Centre": [
+    {
+      "sparks_id": "kd0bd4c2",
+      "current_name": "Rogers Centre",
+      "founding_name": "SkyDome",
+      "year_founded": "1989",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "CA",
+      "subdivision_code": "ON",
+      "city": "Toronto",
+      "latitude_dd": "43.64125",
+      "longitude_dd": "-79.38900",
+      "wikidata_id": "Q76318",
+      "mlb_id": "14",
+      "espn_id": "14"
+    }
+  ],
+  "Rocket Arena": [
+    {
+      "sparks_id": "kpqs9sj5",
+      "current_name": "Rocket Arena",
+      "founding_name": "Gund Arena",
+      "year_founded": "1994",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OH",
+      "city": "Cleveland",
+      "latitude_dd": "41.49657",
+      "longitude_dd": "-81.68814",
+      "wikidata_id": "Q387157",
+      "mlb_id": null,
+      "espn_id": "3417"
+    }
+  ],
+  "Lambeau Field": [
+    {
+      "sparks_id": "ky4ljmnt",
+      "current_name": "Lambeau Field",
+      "founding_name": "City Stadium",
+      "year_founded": "1957",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "WI",
+      "city": "Green Bay",
+      "latitude_dd": "44.50131",
+      "longitude_dd": "-88.06221",
+      "wikidata_id": "Q860790",
+      "mlb_id": null,
+      "espn_id": "3798"
+    }
+  ],
+  "State Farm Arena": [
+    {
+      "sparks_id": "lb1123p8",
+      "current_name": "State Farm Arena",
+      "founding_name": "Philips Arena",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "GA",
+      "city": "Atlanta",
+      "latitude_dd": "33.75724",
+      "longitude_dd": "-84.39645",
+      "wikidata_id": "Q1123297",
+      "mlb_id": null,
+      "espn_id": "1827"
+    }
+  ],
+  "Journey Bank Ballpark": [
+    {
+      "sparks_id": "lkjp2vxb",
+      "current_name": "Journey Bank Ballpark",
+      "founding_name": "Memorial Field",
+      "year_founded": "1926",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "PA",
+      "city": "Williamsport",
+      "latitude_dd": "41.24205",
+      "longitude_dd": "-77.04738",
+      "wikidata_id": "Q4951307",
+      "mlb_id": "2735",
+      "espn_id": "223"
+    }
+  ],
+  "Barclays Center": [
+    {
+      "sparks_id": "lknhnle7",
+      "current_name": "Barclays Center",
+      "founding_name": "Barclays Center",
+      "year_founded": "2012",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NY",
+      "city": "Brooklyn",
+      "latitude_dd": "40.68260",
+      "longitude_dd": "-73.97515",
+      "wikidata_id": "Q807966",
+      "mlb_id": null,
+      "espn_id": "3559"
+    }
+  ],
+  "Dodger Stadium": [
+    {
+      "sparks_id": "lqv9qzd1",
+      "current_name": "Dodger Stadium",
+      "founding_name": "Dodger Stadium",
+      "year_founded": "1962",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Los Angeles",
+      "latitude_dd": "34.07341",
+      "longitude_dd": "-118.24022",
+      "wikidata_id": "Q247420",
+      "mlb_id": "22",
+      "espn_id": "19"
+    }
+  ],
+  "GEHA Field at Arrowhead Stadium": [
+    {
+      "sparks_id": "m6sx76sf",
+      "current_name": "GEHA Field at Arrowhead Stadium",
+      "founding_name": "Arrowhead Stadium",
+      "year_founded": "1972",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MI",
+      "city": "Kansas City",
+      "latitude_dd": "39.04890",
+      "longitude_dd": "-94.48403",
+      "wikidata_id": "Q544553",
+      "mlb_id": null,
+      "espn_id": "3622"
+    }
+  ],
+  "American Family Field": [
+    {
+      "sparks_id": "m7b6qpee",
+      "current_name": "American Family Field",
+      "founding_name": "Miller Park",
+      "year_founded": "2001",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "WI",
+      "city": "Milwaukee",
+      "latitude_dd": "43.02842",
+      "longitude_dd": "-87.97164",
+      "wikidata_id": "Q1339293",
+      "mlb_id": "32",
+      "espn_id": "4242"
+    }
+  ],
+  "Petco Park": [
+    {
+      "sparks_id": "mej3rktq",
+      "current_name": "Petco Park",
+      "founding_name": "Petco Park",
+      "year_founded": "2004",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "San Diego",
+      "latitude_dd": "32.70702",
+      "longitude_dd": "-117.15708",
+      "wikidata_id": "Q1194586",
+      "mlb_id": "2680",
+      "espn_id": "85"
+    }
+  ],
+  "Mercedes-Benz Stadium": [
+    {
+      "sparks_id": "mhjn2tl2",
+      "current_name": "Mercedes-Benz Stadium",
+      "founding_name": "Mercedes-Benz Stadium",
+      "year_founded": "2017",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "GA",
+      "city": "Atlanta",
+      "latitude_dd": "33.75543",
+      "longitude_dd": "-84.40084",
+      "wikidata_id": "Q7007552",
+      "mlb_id": null,
+      "espn_id": "5348"
+    }
+  ],
+  "Raymond James Stadium": [
+    {
+      "sparks_id": "n80bm3x5",
+      "current_name": "Raymond James Stadium",
+      "founding_name": "Raymond James Stadium",
+      "year_founded": "1998",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Tampa",
+      "latitude_dd": "27.97596",
+      "longitude_dd": "-82.50336",
+      "wikidata_id": "Q1141343",
+      "mlb_id": null,
+      "espn_id": "3886"
+    }
+  ],
+  "Scotiabank Arena": [
+    {
+      "sparks_id": "n8pjw4ys",
+      "current_name": "Scotiabank Arena",
+      "founding_name": "Air Canada Centre",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "CA",
+      "subdivision_code": "ON",
+      "city": "Toronto",
+      "latitude_dd": "43.64343",
+      "longitude_dd": "-79.37907",
+      "wikidata_id": "Q406972",
+      "mlb_id": null,
+      "espn_id": "1838"
+    }
+  ],
+  "Little Caesars Arena": [
+    {
+      "sparks_id": "nnwnk6d6",
+      "current_name": "Little Caesars Arena",
+      "founding_name": "Little Caesars Arena",
+      "year_founded": "2017",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MI",
+      "city": "Detroit",
+      "latitude_dd": "42.34109",
+      "longitude_dd": "-83.05520",
+      "wikidata_id": "Q18154984",
+      "mlb_id": null,
+      "espn_id": "5404"
+    }
+  ],
+  "Chase Center": [
+    {
+      "sparks_id": "nw37vq6j",
+      "current_name": "Chase Center",
+      "founding_name": "Chase Center",
+      "year_founded": "2019",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "San Francisco",
+      "latitude_dd": "37.76789",
+      "longitude_dd": "-122.38740",
+      "wikidata_id": "Q15262098",
+      "mlb_id": null,
+      "espn_id": "6270"
+    }
+  ],
+  "MetLife Stadium": [
+    {
+      "sparks_id": "p2ykq00q",
+      "current_name": "MetLife Stadium",
+      "founding_name": "New Meadowlands Stadium",
+      "year_founded": "2010",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NJ",
+      "city": "East Rutherford",
+      "latitude_dd": "40.81355",
+      "longitude_dd": "-74.07433",
+      "wikidata_id": "Q10862290",
+      "mlb_id": null,
+      "espn_id": "3839"
+    }
+  ],
+  "Progressive Field": [
+    {
+      "sparks_id": "qh8qcfxc",
+      "current_name": "Progressive Field",
+      "founding_name": "Jacobs Field",
+      "year_founded": "1994",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OH",
+      "city": "Cleveland",
+      "latitude_dd": "41.49554",
+      "longitude_dd": "-81.68528",
+      "wikidata_id": "Q1154053",
+      "mlb_id": "5",
+      "espn_id": "5"
+    }
+  ],
+  "Lincoln Financial Field": [
+    {
+      "sparks_id": "qymwzvbp",
+      "current_name": "Lincoln Financial Field",
+      "founding_name": "Lincoln Financial Field",
+      "year_founded": "2003",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "PA",
+      "city": "Philadelphia",
+      "latitude_dd": "39.90081",
+      "longitude_dd": "-75.16747",
+      "wikidata_id": "Q1052370",
+      "mlb_id": null,
+      "espn_id": "3806"
+    }
+  ],
+  "Tottenham Hotspur Stadium": [
+    {
+      "sparks_id": "qz21j992",
+      "current_name": "Tottenham Hotspur Stadium",
+      "founding_name": "Tottenham Hotspur Stadium",
+      "year_founded": "2019",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "GB",
+      "subdivision_code": "ENG",
+      "city": "London",
+      "latitude_dd": "51.60423",
+      "longitude_dd": "-0.06617",
+      "wikidata_id": "Q55074091",
+      "mlb_id": null,
+      "espn_id": "5534"
+    }
+  ],
+  "Kia Center": [
+    {
+      "sparks_id": "r2qxr2yt",
+      "current_name": "Kia Center",
+      "founding_name": "Amway Center",
+      "year_founded": "2010",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "Orlando",
+      "latitude_dd": "28.53924",
+      "longitude_dd": "-81.38388",
+      "wikidata_id": "Q481795",
+      "mlb_id": null,
+      "espn_id": "3432"
+    }
+  ],
+  "Delta Center": [
+    {
+      "sparks_id": "r6ebclr6",
+      "current_name": "Delta Center",
+      "founding_name": "Delta Center",
+      "year_founded": "1991",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "UT",
+      "city": "Salt Lake City",
+      "latitude_dd": "40.76826",
+      "longitude_dd": "-111.90110",
+      "wikidata_id": "Q82294",
+      "mlb_id": null,
+      "espn_id": "3093"
+    }
+  ],
+  "Empower Field at Mile High": [
+    {
+      "sparks_id": "rnj1kzdy",
+      "current_name": "Empower Field at Mile High",
+      "founding_name": "Invesco Field",
+      "year_founded": "2001",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CO",
+      "city": "Denver",
+      "latitude_dd": "39.74390",
+      "longitude_dd": "-105.02012",
+      "wikidata_id": "Q1046135",
+      "mlb_id": null,
+      "espn_id": "3937"
+    }
+  ],
+  "PNC Park": [
+    {
+      "sparks_id": "rv5hrgh4",
+      "current_name": "PNC Park",
+      "founding_name": "PNC Park",
+      "year_founded": "2001",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "PA",
+      "city": "Pittsburgh",
+      "latitude_dd": "40.44707",
+      "longitude_dd": "-80.00618",
+      "wikidata_id": "Q1151177",
+      "mlb_id": "31",
+      "espn_id": "47"
+    }
+  ],
+  "Angel Stadium": [
+    {
+      "sparks_id": "rzwkelgj",
+      "current_name": "Angel Stadium",
+      "founding_name": "Anaheim Stadium",
+      "year_founded": "1966",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Anaheim",
+      "latitude_dd": "33.79990",
+      "longitude_dd": "-117.88317",
+      "wikidata_id": "Q531897",
+      "mlb_id": "1",
+      "espn_id": "3"
+    }
+  ],
+  "Yankee Stadium": [
+    {
+      "sparks_id": "sblh1fly",
+      "current_name": "Yankee Stadium",
+      "founding_name": "Yankee Stadium",
+      "year_founded": "2009",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NY",
+      "city": "Bronx",
+      "latitude_dd": "40.82949",
+      "longitude_dd": "-73.92693",
+      "wikidata_id": "Q753529",
+      "mlb_id": "3313",
+      "espn_id": "208"
+    }
+  ],
+  "Estadio Santiago Bernabéu": [
+    {
+      "sparks_id": "sr7hk96c",
+      "current_name": "Estadio Santiago Bernabéu",
+      "founding_name": "Estadio Real Madrid Club de Fútbol",
+      "year_founded": "1947",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "ES",
+      "subdivision_code": "MD",
+      "city": "Madrid",
+      "latitude_dd": "40.45309",
+      "longitude_dd": "-3.68824",
+      "wikidata_id": "Q164027",
+      "mlb_id": null,
+      "espn_id": "1353"
+    }
+  ],
+  "Frost Bank Center": [
+    {
+      "sparks_id": "sw9kzkdx",
+      "current_name": "Frost Bank Center",
+      "founding_name": "SBC Center",
+      "year_founded": "2002",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "San Antonio",
+      "latitude_dd": "29.42702",
+      "longitude_dd": "-98.43746",
+      "wikidata_id": "Q298573",
+      "mlb_id": null,
+      "espn_id": "780"
+    }
+  ],
+  "Spectrum Center": [
+    {
+      "sparks_id": "t9r12mn9",
+      "current_name": "Spectrum Center",
+      "founding_name": "Charlotte Bobcats Arena",
+      "year_founded": "2005",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NC",
+      "city": "Charlotte",
+      "latitude_dd": "35.22519",
+      "longitude_dd": "-80.83935",
+      "wikidata_id": "Q983870",
+      "mlb_id": null,
+      "espn_id": "1893"
+    }
+  ],
+  "Soldier Field": [
+    {
+      "sparks_id": "tehebes0",
+      "current_name": "Soldier Field",
+      "founding_name": "Municipal Grant Park Stadium",
+      "year_founded": "1924",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "IL",
+      "city": "Chicago",
+      "latitude_dd": "41.86227",
+      "longitude_dd": "-87.61673",
+      "wikidata_id": "Q1132413",
+      "mlb_id": null,
+      "espn_id": "3933"
+    }
+  ],
+  "Crypto.com Arena": [
+    {
+      "sparks_id": "v28kdwh7",
+      "current_name": "Crypto.com Arena",
+      "founding_name": "Staples Center",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CA",
+      "city": "Los Angeles",
+      "latitude_dd": "34.04306",
+      "longitude_dd": "-118.26713",
+      "wikidata_id": "Q186080",
+      "mlb_id": null,
+      "espn_id": "1841"
+    }
+  ],
+  "NRG Stadium": [
+    {
+      "sparks_id": "v3bct44v",
+      "current_name": "NRG Stadium",
+      "founding_name": "Reliant Stadium",
+      "year_founded": "2002",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Houston",
+      "latitude_dd": "29.68472",
+      "longitude_dd": "-95.41081",
+      "wikidata_id": "Q1058864",
+      "mlb_id": null,
+      "espn_id": "3891"
+    }
+  ],
+  "Daikin Park": [
+    {
+      "sparks_id": "v6kn5mgt",
+      "current_name": "Daikin Park",
+      "founding_name": "Enron Field",
+      "year_founded": "2000",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Houston",
+      "latitude_dd": "29.75671",
+      "longitude_dd": "-95.35537",
+      "wikidata_id": "Q1193671",
+      "mlb_id": "2392",
+      "espn_id": "44"
+    }
+  ],
+  "State Farm Stadium": [
+    {
+      "sparks_id": "vbjxgrj8",
+      "current_name": "State Farm Stadium",
+      "founding_name": "Cardinals Stadium",
+      "year_founded": "2006",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "AZ",
+      "city": "Glendale",
+      "latitude_dd": "33.52765",
+      "longitude_dd": "-112.26257",
+      "wikidata_id": "Q756433",
+      "mlb_id": null,
+      "espn_id": "3970"
+    }
+  ],
+  "American Airlines Center": [
+    {
+      "sparks_id": "vc2kskgs",
+      "current_name": "American Airlines Center",
+      "founding_name": "American Airlines Center",
+      "year_founded": "2001",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Dallas",
+      "latitude_dd": "32.79050",
+      "longitude_dd": "-96.81029",
+      "wikidata_id": "Q463345",
+      "mlb_id": null,
+      "espn_id": "516"
+    }
+  ],
+  "Allegiant Stadium": [
+    {
+      "sparks_id": "vtq7w9km",
+      "current_name": "Allegiant Stadium",
+      "founding_name": "Allegiant Stadium",
+      "year_founded": "2020",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "NV",
+      "city": "Paradise",
+      "latitude_dd": "36.09070",
+      "longitude_dd": "-115.18337",
+      "wikidata_id": "Q27768421",
+      "mlb_id": null,
+      "espn_id": "6501"
+    }
+  ],
+  "Gillette Stadium": [
+    {
+      "sparks_id": "wmk3z54f",
+      "current_name": "Gillette Stadium",
+      "founding_name": "CMGI Field",
+      "year_founded": "2002",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MA",
+      "city": "Foxborough",
+      "latitude_dd": "42.09092",
+      "longitude_dd": "-71.26434",
+      "wikidata_id": "Q373355",
+      "mlb_id": null,
+      "espn_id": "3738"
+    }
+  ],
+  "Moody Center": [
+    {
+      "sparks_id": "ww52t2cg",
+      "current_name": "Moody Center",
+      "founding_name": "Moody Center",
+      "year_founded": "2022",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "TX",
+      "city": "Austin",
+      "latitude_dd": "30.28096",
+      "longitude_dd": "-97.73064",
+      "wikidata_id": "Q79477138",
+      "mlb_id": null,
+      "espn_id": "7317"
+    }
+  ],
+  "Tokyo Dome": [
+    {
+      "sparks_id": "x41s6c3m",
+      "current_name": "Tokyo Dome",
+      "founding_name": "Tokyo Dome",
+      "year_founded": "1988",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "JP",
+      "subdivision_code": "13",
+      "city": "Tokyo",
+      "latitude_dd": "35.70557",
+      "longitude_dd": "139.75187",
+      "wikidata_id": "Q733748",
+      "mlb_id": "2397",
+      "espn_id": "42"
+    }
+  ],
+  "Arena CDMX": [
+    {
+      "sparks_id": "xs1et22g",
+      "current_name": "Arena CDMX",
+      "founding_name": "Arena CDMX",
+      "year_founded": "2012",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "MX",
+      "subdivision_code": "CMX",
+      "city": "Ciudad de México",
+      "latitude_dd": "19.49766",
+      "longitude_dd": "-99.17515",
+      "wikidata_id": "Q6826206",
+      "mlb_id": null,
+      "espn_id": "5779"
+    }
+  ],
+  "Great American Ball Park": [
+    {
+      "sparks_id": "y3qg6fdf",
+      "current_name": "Great American Ball Park",
+      "founding_name": "Great American Ball Park",
+      "year_founded": "2003",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "OH",
+      "city": "Cincinnati",
+      "latitude_dd": "39.09748",
+      "longitude_dd": "-84.50705",
+      "wikidata_id": "Q979975",
+      "mlb_id": "2602",
+      "espn_id": "83"
+    }
+  ],
+  "Smoothie King Center": [
+    {
+      "sparks_id": "zmn2n2hn",
+      "current_name": "Smoothie King Center",
+      "founding_name": "New Orleans Arena",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "LA",
+      "city": "New Orleans",
+      "latitude_dd": "29.94908",
+      "longitude_dd": "-90.08196",
+      "wikidata_id": "Q1515840",
+      "mlb_id": null,
+      "espn_id": "985"
+    }
+  ],
+  "Ball Arena": [
+    {
+      "sparks_id": "zn5lvl4x",
+      "current_name": "Ball Arena",
+      "founding_name": "Pepsi Center",
+      "year_founded": "1999",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "CO",
+      "city": "Denver",
+      "latitude_dd": "39.74866",
+      "longitude_dd": "-105.00760",
+      "wikidata_id": "Q795470",
+      "mlb_id": null,
+      "espn_id": "892"
+    }
+  ]
+}

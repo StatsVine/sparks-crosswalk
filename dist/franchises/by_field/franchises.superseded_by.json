@@ -1,0 +1,257 @@
+{
+  "al_oak_1968": [
+    {
+      "sparks_id": "al_kca_1955",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Kansas City Athletics",
+      "location": "Kansas City",
+      "abbreviation": "KCA",
+      "wikidata_id": "Q128565926",
+      "status": "superseded",
+      "year_founded": "1955",
+      "year_ceased": "1967",
+      "root_franchise": "al_phi_1901",
+      "superseded_by": "al_oak_1968",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_stl_1902": [
+    {
+      "sparks_id": "al_mil_1901",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Milwaukee Brewers",
+      "location": "Milwaukee",
+      "abbreviation": "MIL",
+      "wikidata_id": "Q117253695",
+      "status": "superseded",
+      "year_founded": "1901",
+      "year_ceased": "1901",
+      "root_franchise": "al_mil_1901",
+      "superseded_by": "al_stl_1902",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "nl_mil_1998": [
+    {
+      "sparks_id": "al_mil_1970",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Milwaukee Brewers",
+      "location": "Milwaukee",
+      "abbreviation": "MIL",
+      "wikidata_id": "Q848103",
+      "status": "superseded",
+      "year_founded": "1970",
+      "year_ceased": "1997",
+      "root_franchise": "al_sea_1969",
+      "superseded_by": "nl_mil_1998",
+      "superseded_reason": "realignment"
+    }
+  ],
+  "al_ath_2025": [
+    {
+      "sparks_id": "al_oak_1968",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Oakland Athletics",
+      "location": "Oakland",
+      "abbreviation": "OAK",
+      "wikidata_id": "Q131926583",
+      "status": "superseded",
+      "year_founded": "1968",
+      "year_ceased": "2024",
+      "root_franchise": "al_phi_1901",
+      "superseded_by": "al_ath_2025",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_kca_1955": [
+    {
+      "sparks_id": "al_phi_1901",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Philadelphia Athletics",
+      "location": "Philadelphia",
+      "abbreviation": "PHI",
+      "wikidata_id": "Q5870201",
+      "status": "superseded",
+      "year_founded": "1901",
+      "year_ceased": "1954",
+      "root_franchise": "al_phi_1901",
+      "superseded_by": "al_kca_1955",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_mil_1970": [
+    {
+      "sparks_id": "al_sea_1969",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Seattle Pilots",
+      "location": "Seattle",
+      "abbreviation": "SEA",
+      "wikidata_id": "Q7442149",
+      "status": "superseded",
+      "year_founded": "1969",
+      "year_ceased": "1969",
+      "root_franchise": "al_sea_1969",
+      "superseded_by": "al_mil_1970",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_bal_1954": [
+    {
+      "sparks_id": "al_stl_1902",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "St. Louis Browns",
+      "location": "St. Louis",
+      "abbreviation": "STL",
+      "wikidata_id": "Q11314813",
+      "status": "superseded",
+      "year_founded": "1902",
+      "year_ceased": "1953",
+      "root_franchise": "al_mil_1901",
+      "superseded_by": "al_bal_1954",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_min_1961": [
+    {
+      "sparks_id": "al_was_1901",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Washington Senators",
+      "location": "Washington",
+      "abbreviation": "WAS",
+      "wikidata_id": "Q17030254",
+      "status": "superseded",
+      "year_founded": "1901",
+      "year_ceased": "1960",
+      "root_franchise": "al_was_1901",
+      "superseded_by": "al_min_1961",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_tex_1972": [
+    {
+      "sparks_id": "al_was_1961",
+      "sport_id": "baseball",
+      "league_id": "al",
+      "name": "Washington Senators",
+      "location": "Washington",
+      "abbreviation": "WAS",
+      "wikidata_id": "Q111678972",
+      "status": "superseded",
+      "year_founded": "1961",
+      "year_ceased": "1971",
+      "root_franchise": "al_was_1961",
+      "superseded_by": "al_tex_1972",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "nl_lad_1958": [
+    {
+      "sparks_id": "nl_bkn_1890",
+      "sport_id": "baseball",
+      "league_id": "nl",
+      "name": "Brooklyn Dodgers",
+      "location": "Brooklyn",
+      "abbreviation": "BKN",
+      "wikidata_id": "Q5869184",
+      "status": "superseded",
+      "year_founded": "1890",
+      "year_ceased": "1957",
+      "root_franchise": "nl_bkn_1890",
+      "superseded_by": "nl_lad_1958",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "nl_mil_1953": [
+    {
+      "sparks_id": "nl_bos_1876",
+      "sport_id": "baseball",
+      "league_id": "nl",
+      "name": "Boston Braves",
+      "location": "Boston",
+      "abbreviation": "BOS",
+      "wikidata_id": "Q5869139",
+      "status": "superseded",
+      "year_founded": "1876",
+      "year_ceased": "1952",
+      "root_franchise": "nl_bos_1876",
+      "superseded_by": "nl_mil_1953",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "al_hou_2013": [
+    {
+      "sparks_id": "nl_hou_1962",
+      "sport_id": "baseball",
+      "league_id": "nl",
+      "name": "Houston Astros",
+      "location": "Houston",
+      "abbreviation": "HOU",
+      "wikidata_id": "Q848117",
+      "status": "superseded",
+      "year_founded": "1962",
+      "year_ceased": "2012",
+      "root_franchise": "nl_hou_1962",
+      "superseded_by": "al_hou_2013",
+      "superseded_reason": "realignment"
+    }
+  ],
+  "nl_atl_1966": [
+    {
+      "sparks_id": "nl_mil_1953",
+      "sport_id": "baseball",
+      "league_id": "nl",
+      "name": "Milwaukee Braves",
+      "location": "Milwaukee",
+      "abbreviation": "MIL",
+      "wikidata_id": "Q127777377",
+      "status": "superseded",
+      "year_founded": "1953",
+      "year_ceased": "1965",
+      "root_franchise": "nl_bos_1876",
+      "superseded_by": "nl_atl_1966",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "nl_was_2005": [
+    {
+      "sparks_id": "nl_mon_1969",
+      "sport_id": "baseball",
+      "league_id": "nl",
+      "name": "Montreal Expos",
+      "location": "Montreal",
+      "abbreviation": "MON",
+      "wikidata_id": "Q1148233",
+      "status": "superseded",
+      "year_founded": "1969",
+      "year_ceased": "2004",
+      "root_franchise": "nl_mon_1969",
+      "superseded_by": "nl_was_2005",
+      "superseded_reason": "relocation"
+    }
+  ],
+  "nl_sf_1958": [
+    {
+      "sparks_id": "nl_nyg_1883",
+      "sport_id": "baseball",
+      "league_id": "nl",
+      "name": "New York Giants",
+      "location": "New York",
+      "abbreviation": "NYG",
+      "wikidata_id": "Q3024169",
+      "status": "superseded",
+      "year_founded": "1883",
+      "year_ceased": "1957",
+      "root_franchise": "nl_nyg_1883",
+      "superseded_by": "nl_sf_1958",
+      "superseded_reason": "relocation"
+    }
+  ]
+}
