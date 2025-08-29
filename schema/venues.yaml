@@ -57,6 +57,11 @@ fields:
     required: true
     description: Longitude of the venue, in decimal degrees.
     pattern: ^-?[0-9]{1,3}(?:\.[0-9]{4,5})$ 
+  status:
+    type: enum
+    required: true
+    description: Status of venue.
+    enum: [active,inactive,demolished]
   wikidata_id:
     type: string
     required: true
