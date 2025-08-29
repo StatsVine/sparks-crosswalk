@@ -1,103 +1,103 @@
-sparks_id,current_name,founding_name,year_founded,year_inactive,year_demolished,country_code,subdivision_code,city,latitude_dd,longitude_dd,wikidata_id,mlb_id,espn_id
-05njz9zt,United Center,United Center,1994,,,US,IL,Chicago,41.88070,-87.67418,Q639975,,1847
-0rctdqyd,Citizens Bank Park,Citizens Bank Park,2004,,,US,PA,Philadelphia,39.90558,-75.16661,Q912770,2681,84
-0rfq97bs,Citi Field,Citi Field,2009,,,US,NY,Queens,40.75658,-73.84603,Q1072882,3289,209
-0trfx90w,Paycor Stadium,Paul Brown Stadium,2000,,,US,OH,Cincinnati,39.09544,-84.51605,Q1632294,,3874
-1945j1z7,loanDepot park,Marlins Park,2012,,,US,FL,Miami,25.77842,-80.21986,Q1368138,4169,4223
-1dz9ytdh,AT&T Stadium,Cowboys Stadium,2009,,,US,TX,Arlington,32.74781,-97.09283,Q838284,,3687
-1fveknv3,Kaseya Center,American Airlines Arena,1999,,,US,FL,Miami,25.78135,-80.18792,Q420129,,3438
-1pg5bd5c,George M. Steinbrenner Field,Legends Field,1996,,,US,FL,Tampa,27.97997,-82.50701,Q3101733,2523,72
-1txnd5g8,EverBank Stadium,Jacksonville Municipal Stadium,1995,,,US,FL,Jacksonville,30.32391,-81.63735,Q635117,,3712
-25f6w8e1,Ford Field,Ford Field,2002,,,US,MI,Detroit,42.34002,-83.04565,Q1142586,,3727
-2py1z9kx,Huntington Bank Field,Cleveland Browns Stadium,1999,,,US,OH,Cleveland,41.50604,-81.69958,Q1100756,,3679
-3c520rvp,Nationals Park,Nationals Park,2008,,,US,DC,Washington,38.87254,-77.00776,Q517545,3309,89
-3cmc259x,Target Center,Target Center,1990,,,US,MN,Minneapolis,44.97952,-93.27606,Q282675,,2029
-3h343skr,PHX Arena,America West Arena,1992,,,US,AZ,Phoenix,33.44582,-112.07119,Q1538690,,1949
-4gvhzt8l,U.S. Bank Stadium,U.S. Bank Stadium,2016,,,US,MN,Minneapolis,44.97352,-93.25747,Q7929512,,5239
-4ksk1zex,Kauffman Stadium,Kauffman Stadium,1973,,,US,MI,Kansas City,39.05125,-94.48081,Q1737017,7,7
-4tew5786,Oracle Park,Pacific Bell Park,2000,,,US,CA,San Francisco,37.77836,-122.38991,Q298585,2395,43
-5m4srn9s,Wembley Stadium,Wembley Stadium,2007,,,GB,ENG,London,51.55597,-0.27954,Q128468,,2455
-64hw4s2l,Paycom Center,Ford Center,2002,,,US,OK,Oklahoma City,35.46349,-97.51511,Q665434,,2559
-6966hy2t,Coors Field,Coors Field,1995,,,US,CO,Denver,39.75571,-104.99420,Q1129916,19,27
-6gtxzeb7,Levi's Stadium,Levi's Stadium,2014,,,US,CA,Santa Clara,37.40319,-121.96980,Q7419343,,4738
-6h0z5tye,Fenway Park,Fenway Park,1912,,,US,MA,Boston,42.34625,-71.09777,Q49136,3,2
-6h651bwc,Madison Square Garden,Madison Square Garden,1968,,,US,NY,New York City,40.75052,-73.99347,Q186125,,1830
-6tn1k7kv,SoFi Stadium,SoFi Stadium,2020,,,US,CA,Inglewood,33.95342,-118.33904,Q19520501,,7065
-6wvqyq9h,Globe Life Field,Globe Life Field,2020,,,US,TX,Arlington,32.74728,-97.08358,Q24284037,5325,231
-74ckqk8x,Capital One Arena,MCI Center,1997,,,US,DC,Washington,38.89815,-77.02093,Q223240,,1823
-7e0msnql,FedExForum,FedExForum,2004,,,US,TN,Memphis,35.13822,-90.05048,Q641212,,1392
-7l3e0ezw,Highmark Stadium,Rich Stadium,1973,,,US,NY,Orchard Park,42.77374,-78.78697,Q1475645,,3883
-7qlktt88,Xfinity Mobile Arena,CoreStates Center,1996,,,US,PA,Philadelphia,39.90120,-75.17195,Q818735,,1845
-828w5wnk,Rate Field,Comiskey Park,1991,,,US,IL,Chicago,41.83019,-87.63424,Q633613,4,4
-91gpmzp4,Lumen Field,Seahawks Stadium,2002,,,US,WA,Seattle,47.59522,-122.33167,Q612736,,3673
-91yqz091,Croke Park,Croke Park,1884,,,IE,D,Dublin,53.36074,-6.25113,Q478225,,4737
-c4rkh70v,Sutter Health Park,Raley Field,2000,,,US,CA,West Sacramento,38.58022,-121.51403,Q3418115,2529,7109
-cb8v98d1,Wrigley Field,Weeghman Park,1914,,,US,IL,Chicago,41.94792,-87.65583,Q1052807,17,16
-cgbcms2r,Oriole Park at Camden Yards,Oriole Park at Camden Yards,1992,,,US,MD,Baltimore,39.28351,-76.62191,Q1141174,2,1
-cxt4x4bk,Chase Field,Bank One Ballpark,1998,,,US,AZ,Phoenix,33.44504,-112.06672,Q1068011,15,30
-d19jqq98,TD Garden,FleetCenter,1995,,,US,MA,Boston,42.36629,-71.06219,Q432105,,1824
-d4h9j87j,Nissan Stadium,Adelphia Coliseum,1999,,,US,TN,Nashville,36.16647,-86.77127,Q1142992,,3810
-dfs2lv2e,Toyota Center,Toyota Center,2003,,,US,TX,Houston,29.75078,-95.36211,Q1166157,,1394
-e1ppwsh7,Target Field,Target Field,2010,,,US,MN,Minneapolis,44.98171,-93.27829,Q1156635,3312,210
-egcff0wy,Bank of America Stadium,Ericsson Stadium,1996,,,US,NC,Charlotte,35.22580,-80.85283,Q806673,,3628
-er6fpz7s,M&T Bank Stadium,Ravens Stadium at Camden Yards,1998,,,US,MA,Baltimore,39.27796,-76.62271,Q1141336,,3814
-erpqq45q,Moda Center,Rose Garden,1995,,,US,OR,Portland,45.53156,-122.66684,Q1347442,,3423
-f3wv7y64,Neo Química Arena,Arena Corinthians,2014,,,BR,SP,Sao Paulo,-23.54531,-46.47422,Q1362236,,8748
-f7kng037,Acrisure Stadium,Heinz Field,2001,,,US,PA,Pittsburgh,40.44678,-80.01577,Q1067148,,3752
-fd317pbn,Northwest Stadium,Jack Kent Cooke Stadium,1997,,,US,MD,Landover,38.90768,-76.86451,Q583085,,3719
-fv8hjl51,Comerica Park,Comerica Park,2000,,,US,MI,Detroit,42.33944,-83.04896,Q868482,2394,45
-fzbbh58c,Fiserv Forum,Fiserv Forum,2018,,,US,WI,Milwaukee,43.04502,-87.91739,Q20372160,,5777
-g0qj8903,Caesars Superdome,Louisiana Superdome,1975,,,US,LA,New Orleans,29.95104,-90.08109,Q756452,,3493
-gl109vgj,The O2 Arena,The O2 Arena,2007,,,GB,ENG,London,51.50293,0.00321,Q5364202,,6272
-gntz425s,Truist Park,SunTrust Park,2017,,,US,GA,Cumberland,33.89113,-84.46788,Q17003430,4705,218
-gy13xwnv,Lucas Oil Stadium,Lucas Oil Stadium,2008,,,US,IN,Indianapolis,39.76009,-86.16383,Q867160,,3812
-hf4jm4x4,Olympiastadion Berlin,Olympiastadion Berlin,1936,,,DE,BE,Berlin,51.55597,-0.27954,Q151374,,7696
-hx8k7nxz,Hard Rock Stadium,Joe Robbie Stadium,1987,,,US,FL,Miami Gardens,25.95774,-80.23897,Q864339,,3948
-hxn7j9mx,T-Mobile Park,Safeco Field,1999,,,US,WA,Seattle,47.59111,-122.33288,Q1193117,680,41
-hxws0dq3,Uber Arena,O2 World,2008,,,DE,BE,Berlin,52.50636,13.44377,Q265463,,11593
-j4fbhk07,Intuit Dome,Intuit Dome,2024,,,US,CA,Inglewood,33.94378,-118.34224,Q54958436,,10642
-jkxgyks5,Gainbridge Fieldhouse,Conseco Fieldhouse,1999,,,US,IN,Indianapolis,39.76393,-86.15552,Q545007,,2183
-jrq2fbfj,Golden 1 Center,Golden 1 Center,2016,,,US,CA,Sacramento,38.58019,-121.49960,Q7011384,,5310
-k2cbyrm3,Busch Stadium,Busch Stadium,2006,,,US,MI,St. Louis,38.62241,-90.19339,Q253546,2889,87
-kd0bd4c2,Rogers Centre,SkyDome,1989,,,CA,ON,Toronto,43.64125,-79.38900,Q76318,14,14
-kpqs9sj5,Rocket Arena,Gund Arena,1994,,,US,OH,Cleveland,41.49657,-81.68814,Q387157,,3417
-ky4ljmnt,Lambeau Field,City Stadium,1957,,,US,WI,Green Bay,44.50131,-88.06221,Q860790,,3798
-lb1123p8,State Farm Arena,Philips Arena,1999,,,US,GA,Atlanta,33.75724,-84.39645,Q1123297,,1827
-lkjp2vxb,Journey Bank Ballpark,Memorial Field,1926,,,US,PA,Williamsport,41.24205,-77.04738,Q4951307,2735,223
-lknhnle7,Barclays Center,Barclays Center,2012,,,US,NY,Brooklyn,40.68260,-73.97515,Q807966,,3559
-lqv9qzd1,Dodger Stadium,Dodger Stadium,1962,,,US,CA,Los Angeles,34.07341,-118.24022,Q247420,22,19
-m6sx76sf,GEHA Field at Arrowhead Stadium,Arrowhead Stadium,1972,,,US,MI,Kansas City,39.04890,-94.48403,Q544553,,3622
-m7b6qpee,American Family Field,Miller Park,2001,,,US,WI,Milwaukee,43.02842,-87.97164,Q1339293,32,4242
-mej3rktq,Petco Park,Petco Park,2004,,,US,CA,San Diego,32.70702,-117.15708,Q1194586,2680,85
-mhjn2tl2,Mercedes-Benz Stadium,Mercedes-Benz Stadium,2017,,,US,GA,Atlanta,33.75543,-84.40084,Q7007552,,5348
-n80bm3x5,Raymond James Stadium,Raymond James Stadium,1998,,,US,FL,Tampa,27.97596,-82.50336,Q1141343,,3886
-n8pjw4ys,Scotiabank Arena,Air Canada Centre,1999,,,CA,ON,Toronto,43.64343,-79.37907,Q406972,,1838
-nnwnk6d6,Little Caesars Arena,Little Caesars Arena,2017,,,US,MI,Detroit,42.34109,-83.05520,Q18154984,,5404
-nw37vq6j,Chase Center,Chase Center,2019,,,US,CA,San Francisco,37.76789,-122.38740,Q15262098,,6270
-p2ykq00q,MetLife Stadium,New Meadowlands Stadium,2010,,,US,NJ,East Rutherford,40.81355,-74.07433,Q10862290,,3839
-qh8qcfxc,Progressive Field,Jacobs Field,1994,,,US,OH,Cleveland,41.49554,-81.68528,Q1154053,5,5
-qymwzvbp,Lincoln Financial Field,Lincoln Financial Field,2003,,,US,PA,Philadelphia,39.90081,-75.16747,Q1052370,,3806
-qz21j992,Tottenham Hotspur Stadium,Tottenham Hotspur Stadium,2019,,,GB,ENG,London,51.60423,-0.06617,Q55074091,,5534
-r2qxr2yt,Kia Center,Amway Center,2010,,,US,FL,Orlando,28.53924,-81.38388,Q481795,,3432
-r6ebclr6,Delta Center,Delta Center,1991,,,US,UT,Salt Lake City,40.76826,-111.90110,Q82294,,3093
-rnj1kzdy,Empower Field at Mile High,Invesco Field,2001,,,US,CO,Denver,39.74390,-105.02012,Q1046135,,3937
-rv5hrgh4,PNC Park,PNC Park,2001,,,US,PA,Pittsburgh,40.44707,-80.00618,Q1151177,31,47
-rzwkelgj,Angel Stadium,Anaheim Stadium,1966,,,US,CA,Anaheim,33.79990,-117.88317,Q531897,1,3
-sblh1fly,Yankee Stadium,Yankee Stadium,2009,,,US,NY,Bronx,40.82949,-73.92693,Q753529,3313,208
-sr7hk96c,Estadio Santiago Bernabéu,Estadio Real Madrid Club de Fútbol,1947,,,ES,MD,Madrid,40.45309,-3.68824,Q164027,,1353
-sw9kzkdx,Frost Bank Center,SBC Center,2002,,,US,TX,San Antonio,29.42702,-98.43746,Q298573,,780
-t9r12mn9,Spectrum Center,Charlotte Bobcats Arena,2005,,,US,NC,Charlotte,35.22519,-80.83935,Q983870,,1893
-tehebes0,Soldier Field,Municipal Grant Park Stadium,1924,,,US,IL,Chicago,41.86227,-87.61673,Q1132413,,3933
-v28kdwh7,Crypto.com Arena,Staples Center,1999,,,US,CA,Los Angeles,34.04306,-118.26713,Q186080,,1841
-v3bct44v,NRG Stadium,Reliant Stadium,2002,,,US,TX,Houston,29.68472,-95.41081,Q1058864,,3891
-v6kn5mgt,Daikin Park,Enron Field,2000,,,US,TX,Houston,29.75671,-95.35537,Q1193671,2392,44
-vbjxgrj8,State Farm Stadium,Cardinals Stadium,2006,,,US,AZ,Glendale,33.52765,-112.26257,Q756433,,3970
-vc2kskgs,American Airlines Center,American Airlines Center,2001,,,US,TX,Dallas,32.79050,-96.81029,Q463345,,516
-vtq7w9km,Allegiant Stadium,Allegiant Stadium,2020,,,US,NV,Paradise,36.09070,-115.18337,Q27768421,,6501
-wmk3z54f,Gillette Stadium,CMGI Field,2002,,,US,MA,Foxborough,42.09092,-71.26434,Q373355,,3738
-ww52t2cg,Moody Center,Moody Center,2022,,,US,TX,Austin,30.28096,-97.73064,Q79477138,,7317
-x41s6c3m,Tokyo Dome,Tokyo Dome,1988,,,JP,13,Tokyo,35.70557,139.75187,Q733748,2397,42
-xs1et22g,Arena CDMX,Arena CDMX,2012,,,MX,CMX,Ciudad de México,19.49766,-99.17515,Q6826206,,5779
-y3qg6fdf,Great American Ball Park,Great American Ball Park,2003,,,US,OH,Cincinnati,39.09748,-84.50705,Q979975,2602,83
-zmn2n2hn,Smoothie King Center,New Orleans Arena,1999,,,US,LA,New Orleans,29.94908,-90.08196,Q1515840,,985
-zn5lvl4x,Ball Arena,Pepsi Center,1999,,,US,CO,Denver,39.74866,-105.00760,Q795470,,892
+sparks_id,current_name,founding_name,year_founded,year_inactive,year_demolished,country_code,subdivision_code,city,latitude_dd,longitude_dd,status,wikidata_id,mlb_id,espn_id
+05njz9zt,United Center,United Center,1994,,,US,IL,Chicago,41.88070,-87.67418,active,Q639975,,1847
+0rctdqyd,Citizens Bank Park,Citizens Bank Park,2004,,,US,PA,Philadelphia,39.90558,-75.16661,active,Q912770,2681,84
+0rfq97bs,Citi Field,Citi Field,2009,,,US,NY,Queens,40.75658,-73.84603,active,Q1072882,3289,209
+0trfx90w,Paycor Stadium,Paul Brown Stadium,2000,,,US,OH,Cincinnati,39.09544,-84.51605,active,Q1632294,,3874
+1945j1z7,loanDepot park,Marlins Park,2012,,,US,FL,Miami,25.77842,-80.21986,active,Q1368138,4169,4223
+1dz9ytdh,AT&T Stadium,Cowboys Stadium,2009,,,US,TX,Arlington,32.74781,-97.09283,active,Q838284,,3687
+1fveknv3,Kaseya Center,American Airlines Arena,1999,,,US,FL,Miami,25.78135,-80.18792,active,Q420129,,3438
+1pg5bd5c,George M. Steinbrenner Field,Legends Field,1996,,,US,FL,Tampa,27.97997,-82.50701,active,Q3101733,2523,72
+1txnd5g8,EverBank Stadium,Jacksonville Municipal Stadium,1995,,,US,FL,Jacksonville,30.32391,-81.63735,active,Q635117,,3712
+25f6w8e1,Ford Field,Ford Field,2002,,,US,MI,Detroit,42.34002,-83.04565,active,Q1142586,,3727
+2py1z9kx,Huntington Bank Field,Cleveland Browns Stadium,1999,,,US,OH,Cleveland,41.50604,-81.69958,active,Q1100756,,3679
+3c520rvp,Nationals Park,Nationals Park,2008,,,US,DC,Washington,38.87254,-77.00776,active,Q517545,3309,89
+3cmc259x,Target Center,Target Center,1990,,,US,MN,Minneapolis,44.97952,-93.27606,active,Q282675,,2029
+3h343skr,PHX Arena,America West Arena,1992,,,US,AZ,Phoenix,33.44582,-112.07119,active,Q1538690,,1949
+4gvhzt8l,U.S. Bank Stadium,U.S. Bank Stadium,2016,,,US,MN,Minneapolis,44.97352,-93.25747,active,Q7929512,,5239
+4ksk1zex,Kauffman Stadium,Kauffman Stadium,1973,,,US,MI,Kansas City,39.05125,-94.48081,active,Q1737017,7,7
+4tew5786,Oracle Park,Pacific Bell Park,2000,,,US,CA,San Francisco,37.77836,-122.38991,active,Q298585,2395,43
+5m4srn9s,Wembley Stadium,Wembley Stadium,2007,,,GB,ENG,London,51.55597,-0.27954,active,Q128468,,2455
+64hw4s2l,Paycom Center,Ford Center,2002,,,US,OK,Oklahoma City,35.46349,-97.51511,active,Q665434,,2559
+6966hy2t,Coors Field,Coors Field,1995,,,US,CO,Denver,39.75571,-104.99420,active,Q1129916,19,27
+6gtxzeb7,Levi's Stadium,Levi's Stadium,2014,,,US,CA,Santa Clara,37.40319,-121.96980,active,Q7419343,,4738
+6h0z5tye,Fenway Park,Fenway Park,1912,,,US,MA,Boston,42.34625,-71.09777,active,Q49136,3,2
+6h651bwc,Madison Square Garden,Madison Square Garden,1968,,,US,NY,New York City,40.75052,-73.99347,active,Q186125,,1830
+6tn1k7kv,SoFi Stadium,SoFi Stadium,2020,,,US,CA,Inglewood,33.95342,-118.33904,active,Q19520501,,7065
+6wvqyq9h,Globe Life Field,Globe Life Field,2020,,,US,TX,Arlington,32.74728,-97.08358,active,Q24284037,5325,231
+74ckqk8x,Capital One Arena,MCI Center,1997,,,US,DC,Washington,38.89815,-77.02093,active,Q223240,,1823
+7e0msnql,FedExForum,FedExForum,2004,,,US,TN,Memphis,35.13822,-90.05048,active,Q641212,,1392
+7l3e0ezw,Highmark Stadium,Rich Stadium,1973,,,US,NY,Orchard Park,42.77374,-78.78697,active,Q1475645,,3883
+7qlktt88,Xfinity Mobile Arena,CoreStates Center,1996,,,US,PA,Philadelphia,39.90120,-75.17195,active,Q818735,,1845
+828w5wnk,Rate Field,Comiskey Park,1991,,,US,IL,Chicago,41.83019,-87.63424,active,Q633613,4,4
+91gpmzp4,Lumen Field,Seahawks Stadium,2002,,,US,WA,Seattle,47.59522,-122.33167,active,Q612736,,3673
+91yqz091,Croke Park,Croke Park,1884,,,IE,D,Dublin,53.36074,-6.25113,active,Q478225,,4737
+c4rkh70v,Sutter Health Park,Raley Field,2000,,,US,CA,West Sacramento,38.58022,-121.51403,active,Q3418115,2529,7109
+cb8v98d1,Wrigley Field,Weeghman Park,1914,,,US,IL,Chicago,41.94792,-87.65583,active,Q1052807,17,16
+cgbcms2r,Oriole Park at Camden Yards,Oriole Park at Camden Yards,1992,,,US,MD,Baltimore,39.28351,-76.62191,active,Q1141174,2,1
+cxt4x4bk,Chase Field,Bank One Ballpark,1998,,,US,AZ,Phoenix,33.44504,-112.06672,active,Q1068011,15,30
+d19jqq98,TD Garden,FleetCenter,1995,,,US,MA,Boston,42.36629,-71.06219,active,Q432105,,1824
+d4h9j87j,Nissan Stadium,Adelphia Coliseum,1999,,,US,TN,Nashville,36.16647,-86.77127,active,Q1142992,,3810
+dfs2lv2e,Toyota Center,Toyota Center,2003,,,US,TX,Houston,29.75078,-95.36211,active,Q1166157,,1394
+e1ppwsh7,Target Field,Target Field,2010,,,US,MN,Minneapolis,44.98171,-93.27829,active,Q1156635,3312,210
+egcff0wy,Bank of America Stadium,Ericsson Stadium,1996,,,US,NC,Charlotte,35.22580,-80.85283,active,Q806673,,3628
+er6fpz7s,M&T Bank Stadium,Ravens Stadium at Camden Yards,1998,,,US,MA,Baltimore,39.27796,-76.62271,active,Q1141336,,3814
+erpqq45q,Moda Center,Rose Garden,1995,,,US,OR,Portland,45.53156,-122.66684,active,Q1347442,,3423
+f3wv7y64,Neo Química Arena,Arena Corinthians,2014,,,BR,SP,Sao Paulo,-23.54531,-46.47422,active,Q1362236,,8748
+f7kng037,Acrisure Stadium,Heinz Field,2001,,,US,PA,Pittsburgh,40.44678,-80.01577,active,Q1067148,,3752
+fd317pbn,Northwest Stadium,Jack Kent Cooke Stadium,1997,,,US,MD,Landover,38.90768,-76.86451,active,Q583085,,3719
+fv8hjl51,Comerica Park,Comerica Park,2000,,,US,MI,Detroit,42.33944,-83.04896,active,Q868482,2394,45
+fzbbh58c,Fiserv Forum,Fiserv Forum,2018,,,US,WI,Milwaukee,43.04502,-87.91739,active,Q20372160,,5777
+g0qj8903,Caesars Superdome,Louisiana Superdome,1975,,,US,LA,New Orleans,29.95104,-90.08109,active,Q756452,,3493
+gl109vgj,The O2 Arena,The O2 Arena,2007,,,GB,ENG,London,51.50293,0.00321,active,Q5364202,,6272
+gntz425s,Truist Park,SunTrust Park,2017,,,US,GA,Cumberland,33.89113,-84.46788,active,Q17003430,4705,218
+gy13xwnv,Lucas Oil Stadium,Lucas Oil Stadium,2008,,,US,IN,Indianapolis,39.76009,-86.16383,active,Q867160,,3812
+hf4jm4x4,Olympiastadion Berlin,Olympiastadion Berlin,1936,,,DE,BE,Berlin,51.55597,-0.27954,active,Q151374,,7696
+hx8k7nxz,Hard Rock Stadium,Joe Robbie Stadium,1987,,,US,FL,Miami Gardens,25.95774,-80.23897,active,Q864339,,3948
+hxn7j9mx,T-Mobile Park,Safeco Field,1999,,,US,WA,Seattle,47.59111,-122.33288,active,Q1193117,680,41
+hxws0dq3,Uber Arena,O2 World,2008,,,DE,BE,Berlin,52.50636,13.44377,active,Q265463,,11593
+j4fbhk07,Intuit Dome,Intuit Dome,2024,,,US,CA,Inglewood,33.94378,-118.34224,active,Q54958436,,10642
+jkxgyks5,Gainbridge Fieldhouse,Conseco Fieldhouse,1999,,,US,IN,Indianapolis,39.76393,-86.15552,active,Q545007,,2183
+jrq2fbfj,Golden 1 Center,Golden 1 Center,2016,,,US,CA,Sacramento,38.58019,-121.49960,active,Q7011384,,5310
+k2cbyrm3,Busch Stadium,Busch Stadium,2006,,,US,MI,St. Louis,38.62241,-90.19339,active,Q253546,2889,87
+kd0bd4c2,Rogers Centre,SkyDome,1989,,,CA,ON,Toronto,43.64125,-79.38900,active,Q76318,14,14
+kpqs9sj5,Rocket Arena,Gund Arena,1994,,,US,OH,Cleveland,41.49657,-81.68814,active,Q387157,,3417
+ky4ljmnt,Lambeau Field,City Stadium,1957,,,US,WI,Green Bay,44.50131,-88.06221,active,Q860790,,3798
+lb1123p8,State Farm Arena,Philips Arena,1999,,,US,GA,Atlanta,33.75724,-84.39645,active,Q1123297,,1827
+lkjp2vxb,Journey Bank Ballpark,Memorial Field,1926,,,US,PA,Williamsport,41.24205,-77.04738,active,Q4951307,2735,223
+lknhnle7,Barclays Center,Barclays Center,2012,,,US,NY,Brooklyn,40.68260,-73.97515,active,Q807966,,3559
+lqv9qzd1,Dodger Stadium,Dodger Stadium,1962,,,US,CA,Los Angeles,34.07341,-118.24022,active,Q247420,22,19
+m6sx76sf,GEHA Field at Arrowhead Stadium,Arrowhead Stadium,1972,,,US,MI,Kansas City,39.04890,-94.48403,active,Q544553,,3622
+m7b6qpee,American Family Field,Miller Park,2001,,,US,WI,Milwaukee,43.02842,-87.97164,active,Q1339293,32,4242
+mej3rktq,Petco Park,Petco Park,2004,,,US,CA,San Diego,32.70702,-117.15708,active,Q1194586,2680,85
+mhjn2tl2,Mercedes-Benz Stadium,Mercedes-Benz Stadium,2017,,,US,GA,Atlanta,33.75543,-84.40084,active,Q7007552,,5348
+n80bm3x5,Raymond James Stadium,Raymond James Stadium,1998,,,US,FL,Tampa,27.97596,-82.50336,active,Q1141343,,3886
+n8pjw4ys,Scotiabank Arena,Air Canada Centre,1999,,,CA,ON,Toronto,43.64343,-79.37907,active,Q406972,,1838
+nnwnk6d6,Little Caesars Arena,Little Caesars Arena,2017,,,US,MI,Detroit,42.34109,-83.05520,active,Q18154984,,5404
+nw37vq6j,Chase Center,Chase Center,2019,,,US,CA,San Francisco,37.76789,-122.38740,active,Q15262098,,6270
+p2ykq00q,MetLife Stadium,New Meadowlands Stadium,2010,,,US,NJ,East Rutherford,40.81355,-74.07433,active,Q10862290,,3839
+qh8qcfxc,Progressive Field,Jacobs Field,1994,,,US,OH,Cleveland,41.49554,-81.68528,active,Q1154053,5,5
+qymwzvbp,Lincoln Financial Field,Lincoln Financial Field,2003,,,US,PA,Philadelphia,39.90081,-75.16747,active,Q1052370,,3806
+qz21j992,Tottenham Hotspur Stadium,Tottenham Hotspur Stadium,2019,,,GB,ENG,London,51.60423,-0.06617,active,Q55074091,,5534
+r2qxr2yt,Kia Center,Amway Center,2010,,,US,FL,Orlando,28.53924,-81.38388,active,Q481795,,3432
+r6ebclr6,Delta Center,Delta Center,1991,,,US,UT,Salt Lake City,40.76826,-111.90110,active,Q82294,,3093
+rnj1kzdy,Empower Field at Mile High,Invesco Field,2001,,,US,CO,Denver,39.74390,-105.02012,active,Q1046135,,3937
+rv5hrgh4,PNC Park,PNC Park,2001,,,US,PA,Pittsburgh,40.44707,-80.00618,active,Q1151177,31,47
+rzwkelgj,Angel Stadium,Anaheim Stadium,1966,,,US,CA,Anaheim,33.79990,-117.88317,active,Q531897,1,3
+sblh1fly,Yankee Stadium,Yankee Stadium,2009,,,US,NY,Bronx,40.82949,-73.92693,active,Q753529,3313,208
+sr7hk96c,Estadio Santiago Bernabéu,Estadio Real Madrid Club de Fútbol,1947,,,ES,MD,Madrid,40.45309,-3.68824,active,Q164027,,1353
+sw9kzkdx,Frost Bank Center,SBC Center,2002,,,US,TX,San Antonio,29.42702,-98.43746,active,Q298573,,780
+t9r12mn9,Spectrum Center,Charlotte Bobcats Arena,2005,,,US,NC,Charlotte,35.22519,-80.83935,active,Q983870,,1893
+tehebes0,Soldier Field,Municipal Grant Park Stadium,1924,,,US,IL,Chicago,41.86227,-87.61673,active,Q1132413,,3933
+v28kdwh7,Crypto.com Arena,Staples Center,1999,,,US,CA,Los Angeles,34.04306,-118.26713,active,Q186080,,1841
+v3bct44v,NRG Stadium,Reliant Stadium,2002,,,US,TX,Houston,29.68472,-95.41081,active,Q1058864,,3891
+v6kn5mgt,Daikin Park,Enron Field,2000,,,US,TX,Houston,29.75671,-95.35537,active,Q1193671,2392,44
+vbjxgrj8,State Farm Stadium,Cardinals Stadium,2006,,,US,AZ,Glendale,33.52765,-112.26257,active,Q756433,,3970
+vc2kskgs,American Airlines Center,American Airlines Center,2001,,,US,TX,Dallas,32.79050,-96.81029,active,Q463345,,516
+vtq7w9km,Allegiant Stadium,Allegiant Stadium,2020,,,US,NV,Paradise,36.09070,-115.18337,active,Q27768421,,6501
+wmk3z54f,Gillette Stadium,CMGI Field,2002,,,US,MA,Foxborough,42.09092,-71.26434,active,Q373355,,3738
+ww52t2cg,Moody Center,Moody Center,2022,,,US,TX,Austin,30.28096,-97.73064,active,Q79477138,,7317
+x41s6c3m,Tokyo Dome,Tokyo Dome,1988,,,JP,13,Tokyo,35.70557,139.75187,active,Q733748,2397,42
+xs1et22g,Arena CDMX,Arena CDMX,2012,,,MX,CMX,Ciudad de México,19.49766,-99.17515,active,Q6826206,,5779
+y3qg6fdf,Great American Ball Park,Great American Ball Park,2003,,,US,OH,Cincinnati,39.09748,-84.50705,active,Q979975,2602,83
+zmn2n2hn,Smoothie King Center,New Orleans Arena,1999,,,US,LA,New Orleans,29.94908,-90.08196,active,Q1515840,,985
+zn5lvl4x,Ball Arena,Pepsi Center,1999,,,US,CO,Denver,39.74866,-105.00760,active,Q795470,,892

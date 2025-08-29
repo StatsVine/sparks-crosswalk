@@ -1,5 +1,5 @@
 {
-  "United Center": [
+  "active": [
     {
       "sparks_id": "05njz9zt",
       "current_name": "United Center",
@@ -16,9 +16,7 @@
       "wikidata_id": "Q639975",
       "mlb_id": null,
       "espn_id": "1847"
-    }
-  ],
-  "Citizens Bank Park": [
+    },
     {
       "sparks_id": "0rctdqyd",
       "current_name": "Citizens Bank Park",
@@ -35,9 +33,7 @@
       "wikidata_id": "Q912770",
       "mlb_id": "2681",
       "espn_id": "84"
-    }
-  ],
-  "Citi Field": [
+    },
     {
       "sparks_id": "0rfq97bs",
       "current_name": "Citi Field",
@@ -54,9 +50,7 @@
       "wikidata_id": "Q1072882",
       "mlb_id": "3289",
       "espn_id": "209"
-    }
-  ],
-  "Paycor Stadium": [
+    },
     {
       "sparks_id": "0trfx90w",
       "current_name": "Paycor Stadium",
@@ -73,9 +67,7 @@
       "wikidata_id": "Q1632294",
       "mlb_id": null,
       "espn_id": "3874"
-    }
-  ],
-  "loanDepot park": [
+    },
     {
       "sparks_id": "1945j1z7",
       "current_name": "loanDepot park",
@@ -92,9 +84,7 @@
       "wikidata_id": "Q1368138",
       "mlb_id": "4169",
       "espn_id": "4223"
-    }
-  ],
-  "AT&T Stadium": [
+    },
     {
       "sparks_id": "1dz9ytdh",
       "current_name": "AT&T Stadium",
@@ -111,9 +101,7 @@
       "wikidata_id": "Q838284",
       "mlb_id": null,
       "espn_id": "3687"
-    }
-  ],
-  "Kaseya Center": [
+    },
     {
       "sparks_id": "1fveknv3",
       "current_name": "Kaseya Center",
@@ -130,9 +118,7 @@
       "wikidata_id": "Q420129",
       "mlb_id": null,
       "espn_id": "3438"
-    }
-  ],
-  "George M. Steinbrenner Field": [
+    },
     {
       "sparks_id": "1pg5bd5c",
       "current_name": "George M. Steinbrenner Field",
@@ -149,9 +135,7 @@
       "wikidata_id": "Q3101733",
       "mlb_id": "2523",
       "espn_id": "72"
-    }
-  ],
-  "EverBank Stadium": [
+    },
     {
       "sparks_id": "1txnd5g8",
       "current_name": "EverBank Stadium",
@@ -168,9 +152,7 @@
       "wikidata_id": "Q635117",
       "mlb_id": null,
       "espn_id": "3712"
-    }
-  ],
-  "Ford Field": [
+    },
     {
       "sparks_id": "25f6w8e1",
       "current_name": "Ford Field",
@@ -187,9 +169,7 @@
       "wikidata_id": "Q1142586",
       "mlb_id": null,
       "espn_id": "3727"
-    }
-  ],
-  "Huntington Bank Field": [
+    },
     {
       "sparks_id": "2py1z9kx",
       "current_name": "Huntington Bank Field",
@@ -206,9 +186,7 @@
       "wikidata_id": "Q1100756",
       "mlb_id": null,
       "espn_id": "3679"
-    }
-  ],
-  "Nationals Park": [
+    },
     {
       "sparks_id": "3c520rvp",
       "current_name": "Nationals Park",
@@ -225,9 +203,7 @@
       "wikidata_id": "Q517545",
       "mlb_id": "3309",
       "espn_id": "89"
-    }
-  ],
-  "Target Center": [
+    },
     {
       "sparks_id": "3cmc259x",
       "current_name": "Target Center",
@@ -244,9 +220,7 @@
       "wikidata_id": "Q282675",
       "mlb_id": null,
       "espn_id": "2029"
-    }
-  ],
-  "PHX Arena": [
+    },
     {
       "sparks_id": "3h343skr",
       "current_name": "PHX Arena",
@@ -263,9 +237,7 @@
       "wikidata_id": "Q1538690",
       "mlb_id": null,
       "espn_id": "1949"
-    }
-  ],
-  "U.S. Bank Stadium": [
+    },
     {
       "sparks_id": "4gvhzt8l",
       "current_name": "U.S. Bank Stadium",
@@ -282,9 +254,7 @@
       "wikidata_id": "Q7929512",
       "mlb_id": null,
       "espn_id": "5239"
-    }
-  ],
-  "Kauffman Stadium": [
+    },
     {
       "sparks_id": "4ksk1zex",
       "current_name": "Kauffman Stadium",
@@ -301,9 +271,7 @@
       "wikidata_id": "Q1737017",
       "mlb_id": "7",
       "espn_id": "7"
-    }
-  ],
-  "Oracle Park": [
+    },
     {
       "sparks_id": "4tew5786",
       "current_name": "Oracle Park",
@@ -320,9 +288,7 @@
       "wikidata_id": "Q298585",
       "mlb_id": "2395",
       "espn_id": "43"
-    }
-  ],
-  "Wembley Stadium": [
+    },
     {
       "sparks_id": "5m4srn9s",
       "current_name": "Wembley Stadium",
@@ -339,9 +305,7 @@
       "wikidata_id": "Q128468",
       "mlb_id": null,
       "espn_id": "2455"
-    }
-  ],
-  "Paycom Center": [
+    },
     {
       "sparks_id": "64hw4s2l",
       "current_name": "Paycom Center",
@@ -358,9 +322,7 @@
       "wikidata_id": "Q665434",
       "mlb_id": null,
       "espn_id": "2559"
-    }
-  ],
-  "Coors Field": [
+    },
     {
       "sparks_id": "6966hy2t",
       "current_name": "Coors Field",
@@ -377,9 +339,7 @@
       "wikidata_id": "Q1129916",
       "mlb_id": "19",
       "espn_id": "27"
-    }
-  ],
-  "Levi's Stadium": [
+    },
     {
       "sparks_id": "6gtxzeb7",
       "current_name": "Levi's Stadium",
@@ -396,9 +356,7 @@
       "wikidata_id": "Q7419343",
       "mlb_id": null,
       "espn_id": "4738"
-    }
-  ],
-  "Fenway Park": [
+    },
     {
       "sparks_id": "6h0z5tye",
       "current_name": "Fenway Park",
@@ -415,9 +373,7 @@
       "wikidata_id": "Q49136",
       "mlb_id": "3",
       "espn_id": "2"
-    }
-  ],
-  "Madison Square Garden": [
+    },
     {
       "sparks_id": "6h651bwc",
       "current_name": "Madison Square Garden",
@@ -434,9 +390,7 @@
       "wikidata_id": "Q186125",
       "mlb_id": null,
       "espn_id": "1830"
-    }
-  ],
-  "SoFi Stadium": [
+    },
     {
       "sparks_id": "6tn1k7kv",
       "current_name": "SoFi Stadium",
@@ -453,9 +407,7 @@
       "wikidata_id": "Q19520501",
       "mlb_id": null,
       "espn_id": "7065"
-    }
-  ],
-  "Globe Life Field": [
+    },
     {
       "sparks_id": "6wvqyq9h",
       "current_name": "Globe Life Field",
@@ -472,9 +424,7 @@
       "wikidata_id": "Q24284037",
       "mlb_id": "5325",
       "espn_id": "231"
-    }
-  ],
-  "Capital One Arena": [
+    },
     {
       "sparks_id": "74ckqk8x",
       "current_name": "Capital One Arena",
@@ -491,9 +441,7 @@
       "wikidata_id": "Q223240",
       "mlb_id": null,
       "espn_id": "1823"
-    }
-  ],
-  "FedExForum": [
+    },
     {
       "sparks_id": "7e0msnql",
       "current_name": "FedExForum",
@@ -510,9 +458,7 @@
       "wikidata_id": "Q641212",
       "mlb_id": null,
       "espn_id": "1392"
-    }
-  ],
-  "Highmark Stadium": [
+    },
     {
       "sparks_id": "7l3e0ezw",
       "current_name": "Highmark Stadium",
@@ -529,9 +475,7 @@
       "wikidata_id": "Q1475645",
       "mlb_id": null,
       "espn_id": "3883"
-    }
-  ],
-  "Xfinity Mobile Arena": [
+    },
     {
       "sparks_id": "7qlktt88",
       "current_name": "Xfinity Mobile Arena",
@@ -548,9 +492,7 @@
       "wikidata_id": "Q818735",
       "mlb_id": null,
       "espn_id": "1845"
-    }
-  ],
-  "Rate Field": [
+    },
     {
       "sparks_id": "828w5wnk",
       "current_name": "Rate Field",
@@ -567,9 +509,7 @@
       "wikidata_id": "Q633613",
       "mlb_id": "4",
       "espn_id": "4"
-    }
-  ],
-  "Lumen Field": [
+    },
     {
       "sparks_id": "91gpmzp4",
       "current_name": "Lumen Field",
@@ -586,9 +526,7 @@
       "wikidata_id": "Q612736",
       "mlb_id": null,
       "espn_id": "3673"
-    }
-  ],
-  "Croke Park": [
+    },
     {
       "sparks_id": "91yqz091",
       "current_name": "Croke Park",
@@ -605,9 +543,7 @@
       "wikidata_id": "Q478225",
       "mlb_id": null,
       "espn_id": "4737"
-    }
-  ],
-  "Sutter Health Park": [
+    },
     {
       "sparks_id": "c4rkh70v",
       "current_name": "Sutter Health Park",
@@ -624,9 +560,7 @@
       "wikidata_id": "Q3418115",
       "mlb_id": "2529",
       "espn_id": "7109"
-    }
-  ],
-  "Wrigley Field": [
+    },
     {
       "sparks_id": "cb8v98d1",
       "current_name": "Wrigley Field",
@@ -643,9 +577,7 @@
       "wikidata_id": "Q1052807",
       "mlb_id": "17",
       "espn_id": "16"
-    }
-  ],
-  "Oriole Park at Camden Yards": [
+    },
     {
       "sparks_id": "cgbcms2r",
       "current_name": "Oriole Park at Camden Yards",
@@ -662,9 +594,7 @@
       "wikidata_id": "Q1141174",
       "mlb_id": "2",
       "espn_id": "1"
-    }
-  ],
-  "Chase Field": [
+    },
     {
       "sparks_id": "cxt4x4bk",
       "current_name": "Chase Field",
@@ -681,9 +611,7 @@
       "wikidata_id": "Q1068011",
       "mlb_id": "15",
       "espn_id": "30"
-    }
-  ],
-  "TD Garden": [
+    },
     {
       "sparks_id": "d19jqq98",
       "current_name": "TD Garden",
@@ -700,9 +628,7 @@
       "wikidata_id": "Q432105",
       "mlb_id": null,
       "espn_id": "1824"
-    }
-  ],
-  "Nissan Stadium": [
+    },
     {
       "sparks_id": "d4h9j87j",
       "current_name": "Nissan Stadium",
@@ -719,9 +645,7 @@
       "wikidata_id": "Q1142992",
       "mlb_id": null,
       "espn_id": "3810"
-    }
-  ],
-  "Toyota Center": [
+    },
     {
       "sparks_id": "dfs2lv2e",
       "current_name": "Toyota Center",
@@ -738,9 +662,7 @@
       "wikidata_id": "Q1166157",
       "mlb_id": null,
       "espn_id": "1394"
-    }
-  ],
-  "Target Field": [
+    },
     {
       "sparks_id": "e1ppwsh7",
       "current_name": "Target Field",
@@ -757,9 +679,7 @@
       "wikidata_id": "Q1156635",
       "mlb_id": "3312",
       "espn_id": "210"
-    }
-  ],
-  "Bank of America Stadium": [
+    },
     {
       "sparks_id": "egcff0wy",
       "current_name": "Bank of America Stadium",
@@ -776,9 +696,7 @@
       "wikidata_id": "Q806673",
       "mlb_id": null,
       "espn_id": "3628"
-    }
-  ],
-  "M&T Bank Stadium": [
+    },
     {
       "sparks_id": "er6fpz7s",
       "current_name": "M&T Bank Stadium",
@@ -795,9 +713,7 @@
       "wikidata_id": "Q1141336",
       "mlb_id": null,
       "espn_id": "3814"
-    }
-  ],
-  "Moda Center": [
+    },
     {
       "sparks_id": "erpqq45q",
       "current_name": "Moda Center",
@@ -814,9 +730,7 @@
       "wikidata_id": "Q1347442",
       "mlb_id": null,
       "espn_id": "3423"
-    }
-  ],
-  "Neo Química Arena": [
+    },
     {
       "sparks_id": "f3wv7y64",
       "current_name": "Neo Química Arena",
@@ -833,9 +747,7 @@
       "wikidata_id": "Q1362236",
       "mlb_id": null,
       "espn_id": "8748"
-    }
-  ],
-  "Acrisure Stadium": [
+    },
     {
       "sparks_id": "f7kng037",
       "current_name": "Acrisure Stadium",
@@ -852,9 +764,7 @@
       "wikidata_id": "Q1067148",
       "mlb_id": null,
       "espn_id": "3752"
-    }
-  ],
-  "Northwest Stadium": [
+    },
     {
       "sparks_id": "fd317pbn",
       "current_name": "Northwest Stadium",
@@ -871,9 +781,7 @@
       "wikidata_id": "Q583085",
       "mlb_id": null,
       "espn_id": "3719"
-    }
-  ],
-  "Comerica Park": [
+    },
     {
       "sparks_id": "fv8hjl51",
       "current_name": "Comerica Park",
@@ -890,9 +798,7 @@
       "wikidata_id": "Q868482",
       "mlb_id": "2394",
       "espn_id": "45"
-    }
-  ],
-  "Fiserv Forum": [
+    },
     {
       "sparks_id": "fzbbh58c",
       "current_name": "Fiserv Forum",
@@ -909,9 +815,7 @@
       "wikidata_id": "Q20372160",
       "mlb_id": null,
       "espn_id": "5777"
-    }
-  ],
-  "Caesars Superdome": [
+    },
     {
       "sparks_id": "g0qj8903",
       "current_name": "Caesars Superdome",
@@ -928,9 +832,7 @@
       "wikidata_id": "Q756452",
       "mlb_id": null,
       "espn_id": "3493"
-    }
-  ],
-  "The O2 Arena": [
+    },
     {
       "sparks_id": "gl109vgj",
       "current_name": "The O2 Arena",
@@ -947,9 +849,7 @@
       "wikidata_id": "Q5364202",
       "mlb_id": null,
       "espn_id": "6272"
-    }
-  ],
-  "Truist Park": [
+    },
     {
       "sparks_id": "gntz425s",
       "current_name": "Truist Park",
@@ -966,9 +866,7 @@
       "wikidata_id": "Q17003430",
       "mlb_id": "4705",
       "espn_id": "218"
-    }
-  ],
-  "Lucas Oil Stadium": [
+    },
     {
       "sparks_id": "gy13xwnv",
       "current_name": "Lucas Oil Stadium",
@@ -985,9 +883,7 @@
       "wikidata_id": "Q867160",
       "mlb_id": null,
       "espn_id": "3812"
-    }
-  ],
-  "Olympiastadion Berlin": [
+    },
     {
       "sparks_id": "hf4jm4x4",
       "current_name": "Olympiastadion Berlin",
@@ -1004,9 +900,7 @@
       "wikidata_id": "Q151374",
       "mlb_id": null,
       "espn_id": "7696"
-    }
-  ],
-  "Hard Rock Stadium": [
+    },
     {
       "sparks_id": "hx8k7nxz",
       "current_name": "Hard Rock Stadium",
@@ -1023,9 +917,7 @@
       "wikidata_id": "Q864339",
       "mlb_id": null,
       "espn_id": "3948"
-    }
-  ],
-  "T-Mobile Park": [
+    },
     {
       "sparks_id": "hxn7j9mx",
       "current_name": "T-Mobile Park",
@@ -1042,9 +934,7 @@
       "wikidata_id": "Q1193117",
       "mlb_id": "680",
       "espn_id": "41"
-    }
-  ],
-  "Uber Arena": [
+    },
     {
       "sparks_id": "hxws0dq3",
       "current_name": "Uber Arena",
@@ -1061,9 +951,7 @@
       "wikidata_id": "Q265463",
       "mlb_id": null,
       "espn_id": "11593"
-    }
-  ],
-  "Intuit Dome": [
+    },
     {
       "sparks_id": "j4fbhk07",
       "current_name": "Intuit Dome",
@@ -1080,9 +968,7 @@
       "wikidata_id": "Q54958436",
       "mlb_id": null,
       "espn_id": "10642"
-    }
-  ],
-  "Gainbridge Fieldhouse": [
+    },
     {
       "sparks_id": "jkxgyks5",
       "current_name": "Gainbridge Fieldhouse",
@@ -1099,9 +985,7 @@
       "wikidata_id": "Q545007",
       "mlb_id": null,
       "espn_id": "2183"
-    }
-  ],
-  "Golden 1 Center": [
+    },
     {
       "sparks_id": "jrq2fbfj",
       "current_name": "Golden 1 Center",
@@ -1118,9 +1002,7 @@
       "wikidata_id": "Q7011384",
       "mlb_id": null,
       "espn_id": "5310"
-    }
-  ],
-  "Busch Stadium": [
+    },
     {
       "sparks_id": "k2cbyrm3",
       "current_name": "Busch Stadium",
@@ -1137,9 +1019,7 @@
       "wikidata_id": "Q253546",
       "mlb_id": "2889",
       "espn_id": "87"
-    }
-  ],
-  "Rogers Centre": [
+    },
     {
       "sparks_id": "kd0bd4c2",
       "current_name": "Rogers Centre",
@@ -1156,9 +1036,7 @@
       "wikidata_id": "Q76318",
       "mlb_id": "14",
       "espn_id": "14"
-    }
-  ],
-  "Rocket Arena": [
+    },
     {
       "sparks_id": "kpqs9sj5",
       "current_name": "Rocket Arena",
@@ -1175,9 +1053,7 @@
       "wikidata_id": "Q387157",
       "mlb_id": null,
       "espn_id": "3417"
-    }
-  ],
-  "Lambeau Field": [
+    },
     {
       "sparks_id": "ky4ljmnt",
       "current_name": "Lambeau Field",
@@ -1194,9 +1070,7 @@
       "wikidata_id": "Q860790",
       "mlb_id": null,
       "espn_id": "3798"
-    }
-  ],
-  "State Farm Arena": [
+    },
     {
       "sparks_id": "lb1123p8",
       "current_name": "State Farm Arena",
@@ -1213,9 +1087,7 @@
       "wikidata_id": "Q1123297",
       "mlb_id": null,
       "espn_id": "1827"
-    }
-  ],
-  "Journey Bank Ballpark": [
+    },
     {
       "sparks_id": "lkjp2vxb",
       "current_name": "Journey Bank Ballpark",
@@ -1232,9 +1104,7 @@
       "wikidata_id": "Q4951307",
       "mlb_id": "2735",
       "espn_id": "223"
-    }
-  ],
-  "Barclays Center": [
+    },
     {
       "sparks_id": "lknhnle7",
       "current_name": "Barclays Center",
@@ -1251,9 +1121,7 @@
       "wikidata_id": "Q807966",
       "mlb_id": null,
       "espn_id": "3559"
-    }
-  ],
-  "Dodger Stadium": [
+    },
     {
       "sparks_id": "lqv9qzd1",
       "current_name": "Dodger Stadium",
@@ -1270,9 +1138,7 @@
       "wikidata_id": "Q247420",
       "mlb_id": "22",
       "espn_id": "19"
-    }
-  ],
-  "GEHA Field at Arrowhead Stadium": [
+    },
     {
       "sparks_id": "m6sx76sf",
       "current_name": "GEHA Field at Arrowhead Stadium",
@@ -1289,9 +1155,7 @@
       "wikidata_id": "Q544553",
       "mlb_id": null,
       "espn_id": "3622"
-    }
-  ],
-  "American Family Field": [
+    },
     {
       "sparks_id": "m7b6qpee",
       "current_name": "American Family Field",
@@ -1308,9 +1172,7 @@
       "wikidata_id": "Q1339293",
       "mlb_id": "32",
       "espn_id": "4242"
-    }
-  ],
-  "Petco Park": [
+    },
     {
       "sparks_id": "mej3rktq",
       "current_name": "Petco Park",
@@ -1327,9 +1189,7 @@
       "wikidata_id": "Q1194586",
       "mlb_id": "2680",
       "espn_id": "85"
-    }
-  ],
-  "Mercedes-Benz Stadium": [
+    },
     {
       "sparks_id": "mhjn2tl2",
       "current_name": "Mercedes-Benz Stadium",
@@ -1346,9 +1206,7 @@
       "wikidata_id": "Q7007552",
       "mlb_id": null,
       "espn_id": "5348"
-    }
-  ],
-  "Raymond James Stadium": [
+    },
     {
       "sparks_id": "n80bm3x5",
       "current_name": "Raymond James Stadium",
@@ -1365,9 +1223,7 @@
       "wikidata_id": "Q1141343",
       "mlb_id": null,
       "espn_id": "3886"
-    }
-  ],
-  "Scotiabank Arena": [
+    },
     {
       "sparks_id": "n8pjw4ys",
       "current_name": "Scotiabank Arena",
@@ -1384,9 +1240,7 @@
       "wikidata_id": "Q406972",
       "mlb_id": null,
       "espn_id": "1838"
-    }
-  ],
-  "Little Caesars Arena": [
+    },
     {
       "sparks_id": "nnwnk6d6",
       "current_name": "Little Caesars Arena",
@@ -1403,9 +1257,7 @@
       "wikidata_id": "Q18154984",
       "mlb_id": null,
       "espn_id": "5404"
-    }
-  ],
-  "Chase Center": [
+    },
     {
       "sparks_id": "nw37vq6j",
       "current_name": "Chase Center",
@@ -1422,9 +1274,7 @@
       "wikidata_id": "Q15262098",
       "mlb_id": null,
       "espn_id": "6270"
-    }
-  ],
-  "MetLife Stadium": [
+    },
     {
       "sparks_id": "p2ykq00q",
       "current_name": "MetLife Stadium",
@@ -1441,9 +1291,7 @@
       "wikidata_id": "Q10862290",
       "mlb_id": null,
       "espn_id": "3839"
-    }
-  ],
-  "Progressive Field": [
+    },
     {
       "sparks_id": "qh8qcfxc",
       "current_name": "Progressive Field",
@@ -1460,9 +1308,7 @@
       "wikidata_id": "Q1154053",
       "mlb_id": "5",
       "espn_id": "5"
-    }
-  ],
-  "Lincoln Financial Field": [
+    },
     {
       "sparks_id": "qymwzvbp",
       "current_name": "Lincoln Financial Field",
@@ -1479,9 +1325,7 @@
       "wikidata_id": "Q1052370",
       "mlb_id": null,
       "espn_id": "3806"
-    }
-  ],
-  "Tottenham Hotspur Stadium": [
+    },
     {
       "sparks_id": "qz21j992",
       "current_name": "Tottenham Hotspur Stadium",
@@ -1498,9 +1342,7 @@
       "wikidata_id": "Q55074091",
       "mlb_id": null,
       "espn_id": "5534"
-    }
-  ],
-  "Kia Center": [
+    },
     {
       "sparks_id": "r2qxr2yt",
       "current_name": "Kia Center",
@@ -1517,9 +1359,7 @@
       "wikidata_id": "Q481795",
       "mlb_id": null,
       "espn_id": "3432"
-    }
-  ],
-  "Delta Center": [
+    },
     {
       "sparks_id": "r6ebclr6",
       "current_name": "Delta Center",
@@ -1536,9 +1376,7 @@
       "wikidata_id": "Q82294",
       "mlb_id": null,
       "espn_id": "3093"
-    }
-  ],
-  "Empower Field at Mile High": [
+    },
     {
       "sparks_id": "rnj1kzdy",
       "current_name": "Empower Field at Mile High",
@@ -1555,9 +1393,7 @@
       "wikidata_id": "Q1046135",
       "mlb_id": null,
       "espn_id": "3937"
-    }
-  ],
-  "PNC Park": [
+    },
     {
       "sparks_id": "rv5hrgh4",
       "current_name": "PNC Park",
@@ -1574,9 +1410,7 @@
       "wikidata_id": "Q1151177",
       "mlb_id": "31",
       "espn_id": "47"
-    }
-  ],
-  "Angel Stadium": [
+    },
     {
       "sparks_id": "rzwkelgj",
       "current_name": "Angel Stadium",
@@ -1593,9 +1427,7 @@
       "wikidata_id": "Q531897",
       "mlb_id": "1",
       "espn_id": "3"
-    }
-  ],
-  "Yankee Stadium": [
+    },
     {
       "sparks_id": "sblh1fly",
       "current_name": "Yankee Stadium",
@@ -1612,9 +1444,7 @@
       "wikidata_id": "Q753529",
       "mlb_id": "3313",
       "espn_id": "208"
-    }
-  ],
-  "Estadio Santiago Bernabéu": [
+    },
     {
       "sparks_id": "sr7hk96c",
       "current_name": "Estadio Santiago Bernabéu",
@@ -1631,9 +1461,7 @@
       "wikidata_id": "Q164027",
       "mlb_id": null,
       "espn_id": "1353"
-    }
-  ],
-  "Frost Bank Center": [
+    },
     {
       "sparks_id": "sw9kzkdx",
       "current_name": "Frost Bank Center",
@@ -1650,9 +1478,7 @@
       "wikidata_id": "Q298573",
       "mlb_id": null,
       "espn_id": "780"
-    }
-  ],
-  "Spectrum Center": [
+    },
     {
       "sparks_id": "t9r12mn9",
       "current_name": "Spectrum Center",
@@ -1669,9 +1495,7 @@
       "wikidata_id": "Q983870",
       "mlb_id": null,
       "espn_id": "1893"
-    }
-  ],
-  "Soldier Field": [
+    },
     {
       "sparks_id": "tehebes0",
       "current_name": "Soldier Field",
@@ -1688,9 +1512,7 @@
       "wikidata_id": "Q1132413",
       "mlb_id": null,
       "espn_id": "3933"
-    }
-  ],
-  "Crypto.com Arena": [
+    },
     {
       "sparks_id": "v28kdwh7",
       "current_name": "Crypto.com Arena",
@@ -1707,9 +1529,7 @@
       "wikidata_id": "Q186080",
       "mlb_id": null,
       "espn_id": "1841"
-    }
-  ],
-  "NRG Stadium": [
+    },
     {
       "sparks_id": "v3bct44v",
       "current_name": "NRG Stadium",
@@ -1726,9 +1546,7 @@
       "wikidata_id": "Q1058864",
       "mlb_id": null,
       "espn_id": "3891"
-    }
-  ],
-  "Daikin Park": [
+    },
     {
       "sparks_id": "v6kn5mgt",
       "current_name": "Daikin Park",
@@ -1745,9 +1563,7 @@
       "wikidata_id": "Q1193671",
       "mlb_id": "2392",
       "espn_id": "44"
-    }
-  ],
-  "State Farm Stadium": [
+    },
     {
       "sparks_id": "vbjxgrj8",
       "current_name": "State Farm Stadium",
@@ -1764,9 +1580,7 @@
       "wikidata_id": "Q756433",
       "mlb_id": null,
       "espn_id": "3970"
-    }
-  ],
-  "American Airlines Center": [
+    },
     {
       "sparks_id": "vc2kskgs",
       "current_name": "American Airlines Center",
@@ -1783,9 +1597,7 @@
       "wikidata_id": "Q463345",
       "mlb_id": null,
       "espn_id": "516"
-    }
-  ],
-  "Allegiant Stadium": [
+    },
     {
       "sparks_id": "vtq7w9km",
       "current_name": "Allegiant Stadium",
@@ -1802,9 +1614,7 @@
       "wikidata_id": "Q27768421",
       "mlb_id": null,
       "espn_id": "6501"
-    }
-  ],
-  "Gillette Stadium": [
+    },
     {
       "sparks_id": "wmk3z54f",
       "current_name": "Gillette Stadium",
@@ -1821,9 +1631,7 @@
       "wikidata_id": "Q373355",
       "mlb_id": null,
       "espn_id": "3738"
-    }
-  ],
-  "Moody Center": [
+    },
     {
       "sparks_id": "ww52t2cg",
       "current_name": "Moody Center",
@@ -1840,9 +1648,7 @@
       "wikidata_id": "Q79477138",
       "mlb_id": null,
       "espn_id": "7317"
-    }
-  ],
-  "Tokyo Dome": [
+    },
     {
       "sparks_id": "x41s6c3m",
       "current_name": "Tokyo Dome",
@@ -1859,9 +1665,7 @@
       "wikidata_id": "Q733748",
       "mlb_id": "2397",
       "espn_id": "42"
-    }
-  ],
-  "Arena CDMX": [
+    },
     {
       "sparks_id": "xs1et22g",
       "current_name": "Arena CDMX",
@@ -1878,9 +1682,7 @@
       "wikidata_id": "Q6826206",
       "mlb_id": null,
       "espn_id": "5779"
-    }
-  ],
-  "Great American Ball Park": [
+    },
     {
       "sparks_id": "y3qg6fdf",
       "current_name": "Great American Ball Park",
@@ -1897,9 +1699,7 @@
       "wikidata_id": "Q979975",
       "mlb_id": "2602",
       "espn_id": "83"
-    }
-  ],
-  "Smoothie King Center": [
+    },
     {
       "sparks_id": "zmn2n2hn",
       "current_name": "Smoothie King Center",
@@ -1916,9 +1716,7 @@
       "wikidata_id": "Q1515840",
       "mlb_id": null,
       "espn_id": "985"
-    }
-  ],
-  "Ball Arena": [
+    },
     {
       "sparks_id": "zn5lvl4x",
       "current_name": "Ball Arena",
