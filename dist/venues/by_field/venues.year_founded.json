@@ -52,6 +52,42 @@
       "espn_id": "5"
     }
   ],
+  "1990": [
+    {
+      "sparks_id": "0lshq2jk",
+      "current_name": "Tropicana Field",
+      "founding_name": "Florida Suncoast Dome",
+      "year_founded": "1990",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "St. Petersburg",
+      "latitude_dd": "27.76815",
+      "longitude_dd": "-82.65325",
+      "status": "active",
+      "wikidata_id": "Q1810119",
+      "mlb_id": "12",
+      "espn_id": "31"
+    },
+    {
+      "sparks_id": "3cmc259x",
+      "current_name": "Target Center",
+      "founding_name": "Target Center",
+      "year_founded": "1990",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "MN",
+      "city": "Minneapolis",
+      "latitude_dd": "44.97952",
+      "longitude_dd": "-93.27606",
+      "status": "active",
+      "wikidata_id": "Q282675",
+      "mlb_id": null,
+      "espn_id": "2029"
+    }
+  ],
   "2004": [
     {
       "sparks_id": "0rctdqyd",
@@ -748,25 +784,6 @@
       "wikidata_id": "Q265463",
       "mlb_id": null,
       "espn_id": "11593"
-    }
-  ],
-  "1990": [
-    {
-      "sparks_id": "3cmc259x",
-      "current_name": "Target Center",
-      "founding_name": "Target Center",
-      "year_founded": "1990",
-      "year_inactive": null,
-      "year_demolished": null,
-      "country_code": "US",
-      "subdivision_code": "MN",
-      "city": "Minneapolis",
-      "latitude_dd": "44.97952",
-      "longitude_dd": "-93.27606",
-      "status": "active",
-      "wikidata_id": "Q282675",
-      "mlb_id": null,
-      "espn_id": "2029"
     }
   ],
   "1992": [

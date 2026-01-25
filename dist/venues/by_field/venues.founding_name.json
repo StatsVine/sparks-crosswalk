@@ -18,6 +18,25 @@
       "espn_id": "1847"
     }
   ],
+  "Florida Suncoast Dome": [
+    {
+      "sparks_id": "0lshq2jk",
+      "current_name": "Tropicana Field",
+      "founding_name": "Florida Suncoast Dome",
+      "year_founded": "1990",
+      "year_inactive": null,
+      "year_demolished": null,
+      "country_code": "US",
+      "subdivision_code": "FL",
+      "city": "St. Petersburg",
+      "latitude_dd": "27.76815",
+      "longitude_dd": "-82.65325",
+      "status": "active",
+      "wikidata_id": "Q1810119",
+      "mlb_id": "12",
+      "espn_id": "31"
+    }
+  ],
   "Citizens Bank Park": [
     {
       "sparks_id": "0rctdqyd",
