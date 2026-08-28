@@ -1,0 +1,30 @@
+{
+  "mlb": [
+    {
+      "sparks_id": "al",
+      "sport_id": "baseball",
+      "label": "American League",
+      "abbreviation": "AL",
+      "wikidata_uri": "https://www.wikidata.org/wiki/Q465469",
+      "espn_api_uri": null,
+      "reuters_league_slug": null,
+      "year_founded": "1901",
+      "year_ceased": null,
+      "parent_league": "mlb",
+      "superseded_by": null
+    },
+    {
+      "sparks_id": "nl",
+      "sport_id": "baseball",
+      "label": "National League",
+      "abbreviation": "NL",
+      "wikidata_uri": "https://www.wikidata.org/wiki/Q858082",
+      "espn_api_uri": null,
+      "reuters_league_slug": null,
+      "year_founded": "1876",
+      "year_ceased": null,
+      "parent_league": "mlb",
+      "superseded_by": null
+    }
+  ]
+}

@@ -1,13 +1,11 @@
 name: Build and commit export files
 
+# Source of truth lives in sparks-crosswalk-data. That repo dispatches here on
+# every push to its main that touches data/ or schema/.
 on:
   workflow_dispatch:  # manually triggered
-  push:
-    branches: 
-      - 'main'
-    paths:
-      - /data/**
-      - /schema/**
+  repository_dispatch:
+    types: [crosswalk-data-updated]
 
 jobs:
   build_exports:
@@ -17,14 +15,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Clone sparks-crosswalk-data repo
+        run: |
+          git clone --depth 1 https://github.com/statsvine/sparks-crosswalk-data.git source
 
       - name: Clone sparks-tools repo
         run: |
-          git clone https://github.com/statsvine/sparks-tools.git tools
+          git clone --depth 1 https://github.com/statsvine/sparks-tools.git tools
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -32,16 +34,30 @@ jobs:
         run: |
           pip install -r tools/requirements.txt
 
+      - name: Validate source data before building
+        run: |
+          set -euo pipefail
+          for name in sports leagues franchises venues; do
+            python3 tools/crosswalk/validate_csv.py \
+              "source/data/$name.csv" --schema "source/schema/$name.yaml" --fail-fast
+          done
+
       - name: Run build exports script
         run: |
-          python3 tools/crosswalk/build_crosswalk_dist.py
+          python3 tools/crosswalk/build_crosswalk_dist.py \
+            --csv_dir source/data --schema_dir source/schema --dist_dir dist
 
       - name: Commit dist files
         run: |
           git config --global user.name "SPARKS Build Bot"
           git config --global user.email "statvine+sparks@gmail.com"
           git add dist/
-          git commit -m "Automated build: Update crosswalk dist files" || echo "No changes to commit"
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated build: Update crosswalk dist files"
+            git pull --rebase origin main
+            git push origin main
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
