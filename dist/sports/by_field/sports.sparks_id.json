@@ -1,42 +1,42 @@
 {
   "baseball": {
     "sparks_id": "baseball",
-    "name": "Baseball",
-    "wikidata_id": "Q5369",
-    "iptc_media_topic_id": "20000849",
-    "espn_api_id": "baseball",
+    "label": "Baseball",
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q5369",
+    "iptc_media_topic_uri": "https://cv.iptc.org/newscodes/mediatopic/20000849",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/baseball",
     "reuters_sport_slug": "BASEBALL"
   },
   "basketball": {
     "sparks_id": "basketball",
-    "name": "Basketball",
-    "wikidata_id": "Q5372",
-    "iptc_media_topic_id": "20000851",
-    "espn_api_id": "basketball",
+    "label": "Basketball",
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q5372",
+    "iptc_media_topic_uri": "https://cv.iptc.org/newscodes/mediatopic/20000851",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/basketball",
     "reuters_sport_slug": "BASKETBALL"
   },
   "football": {
     "sparks_id": "football",
-    "name": "Football",
-    "wikidata_id": "Q41323",
-    "iptc_media_topic_id": "20000823",
-    "espn_api_id": "football",
+    "label": "Football",
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q41323",
+    "iptc_media_topic_uri": "https://cv.iptc.org/newscodes/mediatopic/20000823",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/football",
     "reuters_sport_slug": "FOOTBALL"
   },
   "ice-hockey": {
     "sparks_id": "ice-hockey",
-    "name": "Ice Hockey",
-    "wikidata_id": "Q41466",
-    "iptc_media_topic_id": "20000965",
-    "espn_api_id": "hockey",
+    "label": "Ice Hockey",
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q41466",
+    "iptc_media_topic_uri": "https://cv.iptc.org/newscodes/mediatopic/20000965",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/hockey",
     "reuters_sport_slug": "ICEHOCKEY"
   },
   "soccer": {
     "sparks_id": "soccer",
-    "name": "Soccer",
-    "wikidata_id": "Q2736",
-    "iptc_media_topic_id": "20001065",
-    "espn_api_id": "soccer",
+    "label": "Soccer",
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q2736",
+    "iptc_media_topic_uri": "https://cv.iptc.org/newscodes/mediatopic/20001065",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/soccer",
     "reuters_sport_slug": "SOCCER"
   }
 }

@@ -2,55 +2,92 @@
   {
     "sparks_id": "al",
     "sport_id": "baseball",
-    "name": "American League",
+    "label": "American League",
     "abbreviation": "AL",
-    "wikidata_id": "Q465469",
-    "espn_api_id": null,
-    "reuters_league_slug": null
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q465469",
+    "espn_api_uri": null,
+    "reuters_league_slug": null,
+    "year_founded": "1901",
+    "year_ceased": null,
+    "parent_league": "mlb",
+    "superseded_by": null
+  },
+  {
+    "sparks_id": "apfa-1920",
+    "sport_id": "football",
+    "label": "American Professional Football Association",
+    "abbreviation": "APFA",
+    "wikidata_uri": null,
+    "espn_api_uri": null,
+    "reuters_league_slug": null,
+    "year_founded": "1920",
+    "year_ceased": "1921",
+    "parent_league": null,
+    "superseded_by": "nfl"
   },
   {
     "sparks_id": "mlb",
     "sport_id": "baseball",
-    "name": "Major League Baseball",
+    "label": "Major League Baseball",
     "abbreviation": "MLB",
-    "wikidata_id": "Q1163715",
-    "espn_api_id": "mlb",
-    "reuters_league_slug": "BASEBALL-MLB"
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q1163715",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb",
+    "reuters_league_slug": "BASEBALL-MLB",
+    "year_founded": "1903",
+    "year_ceased": null,
+    "parent_league": null,
+    "superseded_by": null
   },
   {
     "sparks_id": "nba",
     "sport_id": "basketball",
-    "name": "National Basketball Assocation",
+    "label": "National Basketball Association",
     "abbreviation": "NBA",
-    "wikidata_id": "Q155223",
-    "espn_api_id": "nba",
-    "reuters_league_slug": "BASKETBALL-NBA"
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q155223",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba",
+    "reuters_league_slug": "BASKETBALL-NBA",
+    "year_founded": "1949",
+    "year_ceased": null,
+    "parent_league": null,
+    "superseded_by": null
   },
   {
     "sparks_id": "nfl",
     "sport_id": "football",
-    "name": "National Football League",
+    "label": "National Football League",
     "abbreviation": "NFL",
-    "wikidata_id": "Q1215884",
-    "espn_api_id": "nfl",
-    "reuters_league_slug": "FOOTBALL-NFL"
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q1215884",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl",
+    "reuters_league_slug": "FOOTBALL-NFL",
+    "year_founded": "1922",
+    "year_ceased": null,
+    "parent_league": null,
+    "superseded_by": null
   },
   {
     "sparks_id": "nhl",
     "sport_id": "ice-hockey",
-    "name": "National Hockey League",
+    "label": "National Hockey League",
     "abbreviation": "NHL",
-    "wikidata_id": "Q1215892",
-    "espn_api_id": "nhl",
-    "reuters_league_slug": "ICEHOCKEY-NHL"
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q1215892",
+    "espn_api_uri": "https://sports.core.api.espn.com/v2/sports/hockey/leagues/nhl",
+    "reuters_league_slug": "ICEHOCKEY-NHL",
+    "year_founded": "1917",
+    "year_ceased": null,
+    "parent_league": null,
+    "superseded_by": null
   },
   {
     "sparks_id": "nl",
     "sport_id": "baseball",
-    "name": "National League",
+    "label": "National League",
     "abbreviation": "NL",
-    "wikidata_id": "Q858082",
-    "espn_api_id": null,
-    "reuters_league_slug": null
+    "wikidata_uri": "https://www.wikidata.org/wiki/Q858082",
+    "espn_api_uri": null,
+    "reuters_league_slug": null,
+    "year_founded": "1876",
+    "year_ceased": null,
+    "parent_league": "mlb",
+    "superseded_by": null
   }
 ]
