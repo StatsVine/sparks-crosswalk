@@ -23,7 +23,7 @@
       "sparks_id": "0lshq2jk",
       "founding_name": "Florida Suncoast Dome",
       "current_name": "Tropicana Field",
-      "latitude_dd": "27.76815",
+      "latitude_dd": "27.76813",
       "longitude_dd": "-82.65325",
       "country_code": "US",
       "subdivision_code": "FL",
@@ -187,6 +187,25 @@
       "year_demolished": null,
       "mlb_id": null,
       "espn_id": "3712"
+    }
+  ],
+  "Melbourne Cricket Ground": [
+    {
+      "sparks_id": "1y8f31k3",
+      "founding_name": "Melbourne Cricket Ground",
+      "current_name": "Melbourne Cricket Ground",
+      "latitude_dd": "-37.81998",
+      "longitude_dd": "144.98345",
+      "country_code": "AU",
+      "subdivision_code": "VIC",
+      "city": "East Melbourne",
+      "wikidata_id": "Q330136",
+      "status": "active",
+      "year_founded": "1853",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "9119"
     }
   ],
   "Ford Field": [
@@ -542,10 +561,10 @@
       "subdivision_code": "NY",
       "city": "Orchard Park",
       "wikidata_id": "Q1475645",
-      "status": "active",
+      "status": "demolished",
       "year_founded": "1973",
-      "year_inactive": null,
-      "year_demolished": null,
+      "year_inactive": "2026",
+      "year_demolished": "2026",
       "mlb_id": null,
       "espn_id": "3883"
     }
@@ -624,6 +643,25 @@
       "year_demolished": null,
       "mlb_id": null,
       "espn_id": "4737"
+    }
+  ],
+  "Estadio Azteca": [
+    {
+      "sparks_id": "brr4zypn",
+      "founding_name": "Estadio Azteca",
+      "current_name": "Estadio Banorte",
+      "latitude_dd": "19.30295",
+      "longitude_dd": "-99.15049",
+      "country_code": "MX",
+      "subdivision_code": "CMX",
+      "city": "Mexico City",
+      "wikidata_id": "Q320454",
+      "status": "active",
+      "year_founded": "1966",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "8219"
     }
   ],
   "Raley Field": [
@@ -797,6 +835,25 @@
       "espn_id": "3628"
     }
   ],
+  "Highmark Stadium": [
+    {
+      "sparks_id": "epyuantq",
+      "founding_name": "Highmark Stadium",
+      "current_name": "Highmark Stadium",
+      "latitude_dd": "42.77302",
+      "longitude_dd": "-78.79219",
+      "country_code": "US",
+      "subdivision_code": "NY",
+      "city": "Orchard Park",
+      "wikidata_id": "Q16251517",
+      "status": "active",
+      "year_founded": "2026",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "11938"
+    }
+  ],
   "Ravens Stadium at Camden Yards": [
     {
       "sparks_id": "er6fpz7s",
@@ -844,7 +901,7 @@
       "longitude_dd": "-46.47422",
       "country_code": "BR",
       "subdivision_code": "SP",
-      "city": "Sao Paulo",
+      "city": "São Paulo",
       "wikidata_id": "Q1362236",
       "status": "active",
       "year_founded": "2014",
@@ -890,6 +947,25 @@
       "year_demolished": null,
       "mlb_id": null,
       "espn_id": "3719"
+    }
+  ],
+  "Allianz Arena": [
+    {
+      "sparks_id": "fi7qrjx9",
+      "founding_name": "Allianz Arena",
+      "current_name": "Allianz Arena",
+      "latitude_dd": "48.2188",
+      "longitude_dd": "11.6247",
+      "country_code": "DE",
+      "subdivision_code": "BY",
+      "city": "Munich",
+      "wikidata_id": "Q127429",
+      "status": "active",
+      "year_founded": "2005",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "11930"
     }
   ],
   "Comerica Park": [
@@ -1011,8 +1087,8 @@
       "sparks_id": "hf4jm4x4",
       "founding_name": "Olympiastadion Berlin",
       "current_name": "Olympiastadion Berlin",
-      "latitude_dd": "52.51472",
-      "longitude_dd": "13.23944",
+      "latitude_dd": "52.51466",
+      "longitude_dd": "13.23952",
       "country_code": "DE",
       "subdivision_code": "BE",
       "city": "Berlin",
@@ -1213,6 +1289,25 @@
       "year_demolished": null,
       "mlb_id": null,
       "espn_id": "3798"
+    }
+  ],
+  "Stade de France": [
+    {
+      "sparks_id": "lae1y3g8",
+      "founding_name": "Stade de France",
+      "current_name": "Stade de France",
+      "latitude_dd": "48.92448",
+      "longitude_dd": "2.36014",
+      "country_code": "FR",
+      "subdivision_code": "IDF",
+      "city": "Saint-Denis",
+      "wikidata_id": "Q13205",
+      "status": "active",
+      "year_founded": "1998",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "1781"
     }
   ],
   "Philips Arena": [
@@ -1460,6 +1555,25 @@
       "year_demolished": null,
       "mlb_id": null,
       "espn_id": "3839"
+    }
+  ],
+  "Fawcett Stadium": [
+    {
+      "sparks_id": "p7pvt6po",
+      "founding_name": "Fawcett Stadium",
+      "current_name": "Tom Benson Hall of Fame Stadium",
+      "latitude_dd": "40.81995",
+      "longitude_dd": "-81.3980",
+      "country_code": "US",
+      "subdivision_code": "OH",
+      "city": "Canton",
+      "wikidata_id": "Q5438734",
+      "status": "active",
+      "year_founded": "1938",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "3718"
     }
   ],
   "Jacobs Field": [
@@ -1823,6 +1937,25 @@
       "espn_id": "6501"
     }
   ],
+  "Estádio Municipal": [
+    {
+      "sparks_id": "w8kistzb",
+      "founding_name": "Estádio Municipal",
+      "current_name": "Estádio Jornalista Mário Filho",
+      "latitude_dd": "-22.91214",
+      "longitude_dd": "-43.23019",
+      "country_code": "BR",
+      "subdivision_code": "RJ",
+      "city": "Rio de Janeiro",
+      "wikidata_id": "Q155174",
+      "status": "active",
+      "year_founded": "1950",
+      "year_inactive": null,
+      "year_demolished": null,
+      "mlb_id": null,
+      "espn_id": "11931"
+    }
+  ],
   "CMGI Field": [
     {
       "sparks_id": "wmk3z54f",
@@ -1889,7 +2022,7 @@
       "longitude_dd": "-99.17515",
       "country_code": "MX",
       "subdivision_code": "CMX",
-      "city": "Ciudad de México",
+      "city": "Mexico City",
       "wikidata_id": "Q6826206",
       "status": "active",
       "year_founded": "2012",
