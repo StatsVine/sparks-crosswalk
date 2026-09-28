@@ -34,12 +34,14 @@ jobs:
         run: |
           pip install -r tools/requirements.txt
 
+      # Schemas give reference_file paths relative to the data repo root.
       - name: Validate source data before building
+        working-directory: source
         run: |
           set -euo pipefail
           for name in sports leagues franchises venues; do
-            python3 tools/crosswalk/validate_csv.py \
-              "source/data/$name.csv" --schema "source/schema/$name.yaml" --fail-fast
+            python3 ../tools/crosswalk/validate_csv.py \
+              "data/$name.csv" --schema "schema/$name.yaml" --fail-fast
           done
 
       - name: Run build exports script
